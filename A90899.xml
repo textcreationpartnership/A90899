@@ -1,0 +1,2148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Saving faith set forth in three dialogues or Conferences: 1 2 3 between Christ and a publican. Pharisee. Doubting beleever. Whereunto is added tvvo sermons one of them preached before the Parliament the other before the Lord Mayor of the City of London. By Vavasor Powell, minister of the Gospell.</title>
+            <author>Powell, Vavasor, 1617-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 86 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90899</idno>
+            <idno type="STC">Wing P3092</idno>
+            <idno type="STC">Thomason E1332_3</idno>
+            <idno type="STC">ESTC R209110</idno>
+            <idno type="EEBO-CITATION">99868009</idno>
+            <idno type="PROQUEST">99868009</idno>
+            <idno type="VID">169787</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90899)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169787)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 177:E1332[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Saving faith set forth in three dialogues or Conferences: 1 2 3 between Christ and a publican. Pharisee. Doubting beleever. Whereunto is added tvvo sermons one of them preached before the Parliament the other before the Lord Mayor of the City of London. By Vavasor Powell, minister of the Gospell.</title>
+                  <author>Powell, Vavasor, 1617-1670.</author>
+               </titleStmt>
+               <extent>[12], 59 [i.e. 61], [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Ibbitson for Livewell Chapman, at the Crown in Popes-head Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: pi²  A⁴ a-c P (-P8).</note>
+                  <note>Intended to be bound before "Christ exalted above all creatures" (Wing, 2nd ed., P3081), which has a separate dated title page and separate register and pagination.</note>
+                  <note>The words "between Christ and a" and "publican . beleever" are each bracketed together on title page.</note>
+                  <note>Annotation on Thomason copy: "March 2.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Faith --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+               <term>Catechetics --  Early works to 1800.</term>
+               <term>Catechisms, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169787:1" rendition="simple:additions"/>
+            <p>Saving Faith Set forth In Three Dialogues, or Conferences:
+<list>
+                  <item>1 Between Chriſt and a <hi>Publican.</hi>
+                  </item>
+                  <item>2 Between Chriſt and a <hi>Phariſee.</hi>
+                  </item>
+                  <item>3 Between Chriſt and a <hi>Doubting Beleever.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Whereunto is added TVVO SERMONS One of them <hi>Preached before the</hi> Parliament the other <hi>Before the Lord Mayor of the City of</hi> LONDON.</p>
+            <p>
+               <hi>By</hi> VAVASOR POWELL, <hi>Mi<g ref="char:EOLhyphen"/>niſter of the Goſpell.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>Robert Ibbitſon</hi> for <hi>Li<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ewell Chapman,</hi> at the Crown in Popes-head Alley. 1651.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:169787:2"/>
+            <p>THis Authour hath a<g ref="char:EOLhyphen"/>nother Treatiſe Ex<g ref="char:EOLhyphen"/>tant, called <hi>Chriſt</hi> and <hi>Mo<g ref="char:EOLhyphen"/>ſes Excellency, &amp;c.</hi> Diſtin<g ref="char:EOLhyphen"/>guiſhing and explaining the two Covenants, alſo treating on the Promiſes belonging to both Cove<g ref="char:EOLhyphen"/>nants; Directing to a right underſtanding of them.</p>
+            <pb facs="tcp:169787:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:169787:3"/>
+            <pb facs="tcp:169787:3"/>
+            <head>To the Right Honorable the <hi>Parliament</hi> of the <hi>Com<g ref="char:EOLhyphen"/>mon-wealth</hi> of ENGLAND.</head>
+            <opener>
+               <salute>Moſt Noble, and ho<g ref="char:EOLhyphen"/>nourable Senators,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as you were pleaſed, ſo to own mee, and this rude, &amp; plain ſpeech of mine, as to com<g ref="char:EOLhyphen"/>mand me to the Pulpit, and or<g ref="char:EOLhyphen"/>der it to the Preſſe.</p>
+            <p>I now humbly preſent it to you, with a ſmall portall (or ſhort Epi<g ref="char:EOLhyphen"/>ſtle) for the <hi>Edifice,</hi> it ſelf, (being ſo little, and built with ſo many unhewne ſtones,) deſerves not a great <hi>Porch,</hi> or <hi>Gate</hi> before it.
+<pb facs="tcp:169787:4"/>That which I intended in this <hi>Diſcourſe,</hi> and that which I do, (and ſhall) aime at and endea<g ref="char:EOLhyphen"/>vour, in my whole <hi>Courſe,</hi> was, and is the <hi>Exaltation of Chriſt, and the humiliation, and aba<g ref="char:EOLhyphen"/>ſing of the Creature.</hi>
+            </p>
+            <p>Chriſt was once humbled that wee might be exalted, and he is now exalted that wee might bee humbled. I may ſay without flat<g ref="char:EOLhyphen"/>tery, that God hath honoured you much, and you have honoured him not a little: Yet obſerve that Ho<g ref="char:EOLhyphen"/>nour is a <hi>fore-runner,</hi> either of the raiſing of <hi>Chriſt</hi> in mens hearts,<note place="margin">Deut. 4.24</note> and eſteem, or a ſigne of the <hi>utter ruining, breaking</hi> and <hi>ſinking</hi> of them. The Lord is jealous for his owne, and zealous for his Sons glory;<note place="margin">Eſa. 9.7.</note> and though he bee willing to impart his grace unto all,<note place="margin">Eſa. 42.8.</note> yet his <hi>glory hee will not give to any other.</hi>
+            </p>
+            <pb facs="tcp:169787:4"/>
+            <p>There bee two hard <hi>Leſſons,</hi> which are as the <hi>Alpha</hi> and <hi>O<g ref="char:EOLhyphen"/>mega,</hi> in Gods Book. The one is <hi>to deny our ſelves,</hi> and the o<g ref="char:EOLhyphen"/>ther, <hi>to give glory to God:</hi> And hee is the compleateſt Scholler in Chriſts Schoole, who is beſt vers'd in this divine learning.</p>
+            <p>
+               <hi>Yee Worthy Rulers (of our Iſrael)</hi> Conſider how God hath exalted You in the hearts of his People, over the heads of your Domeſtique Enemies, and in the eyes of your Foraigne foes. Now what doth the Lord require for all this from you againe? but that you walke humbly, and give his <hi>Highneſſe</hi> his deſerved, and due <hi>Glory.</hi>
+            </p>
+            <p>Though <hi>Moſes</hi> and <hi>Aaron,</hi> (two choyce Chriſtians, and Cham<g ref="char:EOLhyphen"/>pions) did lead and govern <hi>Iſra<g ref="char:EOLhyphen"/>el</hi> for a long time,<note place="margin">Num. 20.12.</note> (notwithſtan<g ref="char:EOLhyphen"/>ding many <hi>dangers and difficul<g ref="char:EOLhyphen"/>ties</hi>)
+<pb facs="tcp:169787:5"/>yet they were at laſt ſhut out of <hi>Canaan,</hi> becauſe <hi>they did not ſanctifie God, at the waters of Meribah.</hi> Alſo <hi>Eli</hi> (who was forty years a Prieſt of the Lord) was taken away,<note place="margin">1 Sam. 2.29.</note> and his poſterity cut off, <hi>becauſe he honoured his ſons above the Lord.</hi> Would you ſtand your <hi>ſelves,</hi> and keep the ho<g ref="char:EOLhyphen"/>nour which God hath given you? and would you have your <hi>poſteri<g ref="char:EOLhyphen"/>ty</hi> to proſper, and to have a name in the world, when you are gone out of it? then make it your buſineſſe to exalt Chriſt. Oh remember <hi>that God puls downe ſome,</hi>
+               <note place="margin">Ezek. 31.14.</note> 
+               <hi>to the end that others might not ex<g ref="char:EOLhyphen"/>alt themſelves. The Lord of Hoſts</hi> (ſaith Iſaiah) <hi>hath purpo<g ref="char:EOLhyphen"/>ſed to ſtain the pride of all glo<g ref="char:EOLhyphen"/>ry, and to bring into contempt all the honorable of the earth.</hi>
+               <note place="margin">Eſa. 23.9.</note> 
+               <hi>There is a day comming, when all fleſh ſhall be humbled, and
+<pb facs="tcp:169787:5"/>the Lord alone exalted; &amp; that day ſhal be upon every one that is proud and lofty,</hi>
+               <note place="margin">Eſa. 2.11.12.</note> 
+               <hi>and upon e<g ref="char:EOLhyphen"/>very one that is lifted up, &amp; he ſhal be brought low.</hi> Humble your ſelves therefore, and exalt, neither your hearts, nor your gates, <hi>Seek not great things for your ſelves,</hi>
+               <note place="margin">Jer. 45.5.</note> 
+               <hi>and let there not bee a lye in your right hands,</hi>
+               <note place="margin">Eſa. 44.20 Mal. 2.16.</note> 
+               <hi>neither cover violence with a garment.</hi> Propound nothing to your ſelves to ſeek for, but the honour of Chriſt, and the Saints, and Nations inte<g ref="char:EOLhyphen"/>reſt, (wherein your <hi>intereſts</hi> and <hi>ſafeties</hi> are involved, and inclu<g ref="char:EOLhyphen"/>ded.)<note place="margin">Neh. 5.14.18.</note> Imitate good <hi>Nehemiah,</hi> who did twelve years hard ſervice freely. And that becauſe <hi>the bon<g ref="char:EOLhyphen"/>dage was heavy upon the peo<g ref="char:EOLhyphen"/>ple.</hi> The Lord hath hitherto made you friends to the Saints, and Fa<g ref="char:EOLhyphen"/>thers to the Nation. So that the former hath been countenanced,
+<pb facs="tcp:169787:6"/>and both preſerved through Chriſt, by your means.</p>
+            <p>Likewiſe your zealous and glo<g ref="char:EOLhyphen"/>rious Acts of Juſtice againſt ſin, and your religious Acts of Grace (to the ſoules of men) in the propa<g ref="char:EOLhyphen"/>gating and promoting the Goſpel,<note place="margin">Eſpecially thoſe of Wales.</note> doe, and will remaine engraven, (not in Marble but) in the mindes of us and our poſterity.</p>
+            <p>And for the making of your actions yet more incomparable, (if your more publique and weighty buſineſſe permit) to ſet ſome time, and perſons aſide, to hear, and re<g ref="char:EOLhyphen"/>lieve the private petitions, and grievances of the widdows, diſtreſ<g ref="char:EOLhyphen"/>ſed, impriſoned, oppreſſed, and thoſe that have ſuffered for Chriſts cauſe and your:<note place="margin">Job. 31.16 19.</note> that you may be able to ſay with <hi>Job: That you have not withheld the poore from their deſire, nor cauſed the eies of the Widdow to faile: nor
+<pb facs="tcp:169787:6"/>ſeene any periſh for want of cloathing, nor any poor with<g ref="char:EOLhyphen"/>out covering.</hi>
+            </p>
+            <p>Another deſirable thing is, that all the <hi>REMAINDERS</hi> of <hi>Pa<g ref="char:EOLhyphen"/>ganiſme, Popery</hi> and <hi>Superſti<g ref="char:EOLhyphen"/>tion,</hi> may be taken away, and that the places formerly conſecrated, by Biſhops, and ſtill adored by the ignorant and ſuperſtitious (who call the <hi>Churches,</hi> and <hi>houſes of God</hi>) may be declared to have no inherent holineſſe in them: Alſo that the heathen names of dayes, and months may be aboliſhed, that ſo the people may learne to ſpeake the language of the <hi>Scriptures,</hi> and not of <hi>Aſhteroth:</hi> and that <hi>Jehovah</hi> &amp; not <hi>Jupiter; Chriſt</hi> and not <hi>Saturn,</hi> may be named; and written by us who profeſſe our ſelves to be among the beſt, and the reſormedſt of Chriſtians.</p>
+            <p>And that you may (to uſe the
+<pb facs="tcp:169787:7"/>Apoſtles phraſe) be perfect, and wanting nothing, to repreſent you excellent and eminent: Learne to ſay with <hi>Nehemiah, that though the former Governours were chargeable to the people:</hi>
+               <note place="margin">Neh. 5.15.</note> 
+               <hi>and even their ſervants bare rule o<g ref="char:EOLhyphen"/>ver them: Yet ſo did not I</hi> (wee) <hi>becauſe of the fear of the Lord</hi> This ſhall bee the prayer of him (for you) who can ſay as <hi>Debo<g ref="char:EOLhyphen"/>rah:</hi>
+               <note place="margin">Judg. 5.9.</note> 
+               <hi>My heart is towards the Governours of</hi> Iſrael (England) <hi>that offered themſelves wil<g ref="char:EOLhyphen"/>lingly among the people, bleſſe the Lord.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Your Honours much ob<g ref="char:EOLhyphen"/>liged, and moſt faith<g ref="char:EOLhyphen"/>full ſervant, for Chriſt and in his way.</hi> Vavaſor Powell.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:169787:7"/>
+            <head>
+               <hi>Three Divine</hi> Dialogues, OR, Conferences.</head>
+            <q>
+               <l>The firſt, betweene Chriſt, and a Publican.</l>
+               <l>The ſecond, between Chriſt, and a Phariſee.</l>
+               <l>The third, between Chriſt, and a doubting Beleever.</l>
+            </q>
+            <div type="dialogue">
+               <head>The firſt Dialogue, between Chriſt and a Publican.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>N the great day of the Feaſt Jeſus ſtood, and cryed, ſaying, if any man thirſt, let him come to me, <hi>Joh.</hi> 7.31. Then drew neare all the Publicans and Sinners for to
+<pb n="2" facs="tcp:169787:8"/>heare him, <hi>Luke</hi> 15.1. And he ſaid unto one of them:</p>
+               <sp>
+                  <speaker>Jeſus,</speaker>
+                  <p>
+                     <hi>Poore Publican, What makes thee draw near to mee?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Publican,</speaker>
+                  <p>Becauſe they ſay (Lord) that thou art a friend of Publicans and Sinners, <hi>Matth.</hi> 11.19.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>So I am, and thou art welcome my beloved friend, ſit downe therefore with me, and my Diſciples,</hi> Mat. 9.10.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Good Maſter, though I am unworthy to come into thy pre<g ref="char:EOLhyphen"/>ſence, yet through thy leave, Ile ſit here at thy feet to heare thy graci<g ref="char:EOLhyphen"/>ous words, <hi>Mar.</hi> 7.25. <hi>Luke</hi> 10.39. <hi>Joh.</hi> 12.3.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>How knoweſt thou that my words are gracious?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Lord I have heard thee ſay, that Publicans and Harlots, ſhall enter into the King dome of hea<g ref="char:EOLhyphen"/>ven, before the Phariſees which thinke themſelves far better then us, <hi>Mat.</hi> 21.31. <hi>Luke</hi> 18.11.12.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>And what ſay the Phariſees to that?</hi>
+                  </p>
+               </sp>
+               <pb n="3" facs="tcp:169787:8"/>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>They murmure among them<g ref="char:EOLhyphen"/>ſelves, and ſay, <hi>This man receiveth ſinners, and eateth with them,</hi> Luke 15.2.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Didſt thou ever heare me preach beſides that time?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Yes, once beſides, and it was the beſt, and comfortableſt Sermon that ever I heard.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Doſt thou remember any of it?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Yes, (though I have a bad me<g ref="char:EOLhyphen"/>mory, yet) I remember thou didſt ſay, If a man had a hundred ſheep, and did loſe one of them, he would leave the ninety and nine in the wilderneſſe, and goe after that which was loſt, untill he finde it: and when he had found it, he layeth it on his ſhoulders rejoy<g ref="char:EOLhyphen"/>cing, and when he commeth home, he calleth together his friends, and neighbours, ſaying unto them, re<g ref="char:EOLhyphen"/>joyce with me, for I have found my ſheep that was loſt.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Is that all thou doſt remember?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>No, I remember ſomewhat more, that thou didſt ſpeake of a
+<pb n="4" facs="tcp:169787:9"/>woman, that had ten pieces of ſil<g ref="char:EOLhyphen"/>ver, and when ſhe had loſt one piece, ſhe ſought for it till ſhe had found it, and then called her neigh<g ref="char:EOLhyphen"/>bours together to rejoyce with her: Alſo thou ſpakeſt of a man that had two ſonnes, the one that lived ſtill at home, and was obedi<g ref="char:EOLhyphen"/>ent to his father; the other that went away from his father, and ſpent his fathers means among harlots, till he came to poverty; and yet when he returned to his father, his father did receive him willingly, and made him great welcome, and entertainment.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Well done my friend, thou hast well remembred; but doſt thou know why I ſpake theſe compariſons?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>No Sir, I doe not well know that.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>It was to comfort, and encourage the Publicans and great ſinners, that did heare me, and to ſilence the Jewes that did murmure, becauſe they came to beare me, and becauſe I received them.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>It is true Lord, there were
+<pb n="5" facs="tcp:169787:9"/>many of us there then, but we did not know what thou didſt mean by the loſt ſheep, the loſt piece, and the wicked ſon.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>I did mean thy Country-men, and companions,</hi> the Publicans, Harlots, and Sinners, <hi>that are in a loſt condition, becauſe of your ſinnes, and wickedneſſe in the eyes of others (as the Phariſees) quite loſt, and adjudged to periſh for ever.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>But who was it Lord, that did ſeeke for the loſt ſheep, and the loſt piece of ſilver?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>It was I, who am</hi> the Saviour of ſinners, and the Shepherd of the ſheep, <hi>that am come to ſeeke and to ſave that which is loſt,</hi> Luke 19 10. Matth. 18.11.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Lord I am one of thoſe that are loſt, what ſhall I doe to be ſa<g ref="char:EOLhyphen"/>ved? <hi>Acts</hi> 16.31.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>I am the way, and the doore, if any man enter in, he ſhall be ſaved, and who<g ref="char:EOLhyphen"/>ſoever beleeveth on me, ſhall not periſh, but have everlaſting life,</hi> Joh. 14.6. &amp; 10.9. &amp; 3.15.16.</p>
+               </sp>
+               <pb n="6" facs="tcp:169787:10"/>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Lord canſt thou ſave ſuch a ſinner as I am?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Yes, I have power to ſave, and power to deſtroy, but I came not to de<g ref="char:EOLhyphen"/>ſtroy</hi>
+                     <note n="*" place="margin">Greek, <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> the ſoules of men.</note> 
+                     <hi>mens lives, but to ſave them,</hi> Jam. 4.12. Luk. 9.56.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>And art thou willing Lord, that I ſhould be ſaved?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Yes, I am willing that all ſhould be ſaved, and come to the knowledge of the truth,</hi> 1 Tim. 2.5.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>But, Lord, I am a wicked and a ſinfull man, <hi>Luk.</hi> 5.8.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>I know (deare ſoule) thou art ſo; But, I came not to call the righteous, but ſinners to repentance,</hi> Matth. 9.13.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>But Lord, I am not an ordi<g ref="char:EOLhyphen"/>nary, but an extraordinary ſin<g ref="char:EOLhyphen"/>ner.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Notwithſtanding poore man, hear<g ref="char:EOLhyphen"/>ken for thy comfort, There was a certaine Creditor, that had two debtors, the one ought five hundred pence, and the other fifty; and when they had nothing to pay, be frankly forgave them both,</hi> Luk. 7.41.42.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>But Lord, I am a greater ſin<g ref="char:EOLhyphen"/>ner
+<pb n="7" facs="tcp:169787:10"/>then either of them both, for I have nothing, but ſinned all my life time.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>What though, I am come to deli<g ref="char:EOLhyphen"/>ver thoſe, that were all their life time ſubject to</hi>
+                     <note n="*" place="margin">Or the bondage of ſin.</note> 
+                     <hi>bondage,</hi> Heb. 2.15.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Lord be mercifull to me be<g ref="char:EOLhyphen"/>ing a ſinner, for I thinke there is not a greater ſinner upon earth then I am, <hi>Luke</hi> 18.13.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>I am mercifull, and I will bee mercifull, and will pardon thy ſins,</hi> Jer. 3.12. Heb. 8.12.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Lord, I am ſuch a ſinner, I de<g ref="char:EOLhyphen"/>ſerve no pardon, for I have wearied thee with my ſins.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Though thou doſt not deſerve par<g ref="char:EOLhyphen"/>don, and though thou haſt wearied me with thy ſins, yet I will pardon thine ini<g ref="char:EOLhyphen"/>quities for my owne names ſake,</hi> Eſa. 43.25.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Lord, I doe thinke my ſinnes are ſo great, that it is impoſſible for them to be pardoned.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Doe not thinke or ſay ſo, for all things are poſſible to him that beleeveth,</hi> Mark. 9.23.</p>
+               </sp>
+               <pb n="8" facs="tcp:169787:11"/>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>But my ſins are ſo red, I think all the water in the ſea cannot waſh them away.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Though thy ſins be as ſcarlet, they ſhal be as white as ſnow, and though they be red like crimſon, they ſhall be as wooll, (if thou wilt turne to me from them) for my bloud can cleanſe thee from all ſin,</hi> Eſa. 1.18. 1 Ioh. 1.7.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>But Lord if I ſhould turne to thee from them, yet they are writ<g ref="char:EOLhyphen"/>ten downe, and thou wilt not blot them out, <hi>Ier.</hi> 18.23.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>I am be that blotteth out thy tranſ<g ref="char:EOLhyphen"/>greſſions, yea, have blotted out as a thicke cloud thy tranſgreſſions, and as a cloud thy ſins: returne therefore unto me, for I have redeemed thee,</hi> Eſa. 43.25. &amp; 44.22.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>But if I ſhould returne unto thee, yet when I ſinne againe, thou wilt remember my ſins.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>No, I will pardon thee, and thy ſins and iniquities will I remember no more,</hi> Heb. 10.17.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Oh Lord! I am the childe of wicked parents, and thou ha
+<pb n="9" facs="tcp:169787:11"/>ſaid, thou wilt viſit the ſins of the fathers, upon the children, to the third and fourth generation.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>If a wicked father begets a ſon, that ſeeth all his fathers ſins which he hath done, and conſidereth, and doth not ſuch like; that ſonne ſhall not beare the iniquity of the father;</hi> Ezek. 18.14.20. Ezek. 16.3. to the 13.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>But Lord, were there any wicked parents that had good children?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Yes, many, as wicked</hi>
+                     <note n="(a)" place="margin">2 Kin. 16.20. with 2 Kin. 18.3</note> Ahaz <hi>had good</hi> Hezekiah: <hi>So</hi>
+                     <note n="(b)" place="margin">2 King 21 21, 22. with 2 Kin. 22.2</note> 
+                     <hi>Idolatrous</hi> Amon, <hi>zealous</hi> Ioſiah, <hi>and ungodly</hi> Saul, <hi>had godly</hi> Ionathan.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Lord, what if I be a Baſtard, and the childe of whoredome?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>That doth not hinder thee neither to be ſaved, for my ſervant</hi>
+                     <note n="(c)" place="margin">Jud. 11.1 with Heb. 11.32.</note> Jepthah <hi>was a Baſtard; ſo was my ſervant</hi> Phares <hi>who is reckoned in my owne Genealogie.</hi> Compare Gen. 38.18. &amp; 29 &amp; Ruth 4.12. with Mat. 1.3.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>But Lord, is there not ſuch a Scripture, that a Baſtard ſhall not enter into thy Congregation
+<pb n="10" facs="tcp:169787:12"/>untill the tenth Generation.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Yes there is ſuch a</hi>
+                     <note n="(d)" place="margin">Deu. 23.2</note> 
+                     <hi>Scripture, and that ſhould make people ſhun the ſin of whoredome, but that doth not exclude men, that are borne Baſtards after the fleſh, if they be borne againe of the Spi<g ref="char:EOLhyphen"/>rit, either out of my Church on Earth, (now in the dayes of the Goſpell) or yet out of Heaven.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>But what Lord, if my father was a Baſtard?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Neither doth that binder, for</hi> Zarah <hi>the brother of</hi> Phares <hi>(who was a Baſtard) begot my two wiſe and godly ſervants</hi> Ethan <hi>and</hi> Heman, com<g ref="char:EOLhyphen"/>pare Gen. 38.30. 1 Chron. 26. with Pſal. 88. and Pſal. 89. the titles of both being of <hi>Heman,</hi> and <hi>Ethan.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Oh Lord, I am a very old ſin<g ref="char:EOLhyphen"/>ner, and have one foot already in the grave, and I feare it is too late for me now to be called.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>No, it is not too late, for I call ſome at the ninth hour, yea ſome at the</hi>
+                     <note n="(e)" place="margin">Which is but one houre be<g ref="char:EOLhyphen"/>fore night, or a little before Death.</note> 
+                     <hi>eleventh houre. And I will poure out of my Spirit upon old men in theſe Goſpel daies,</hi> Mat. 20.6.9. Joel 2.28. with Act. 2.17</p>
+               </sp>
+               <pb n="11" facs="tcp:169787:12"/>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>But Lord, I have committed ſuch great and hainous ſins, both by ſpeaking, and doing, that I am afraid it is in vaine for me to ſeek mercy.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Though thou haſt ſpoken, and done evill things, as much as thou couldeſt, yet returne unto me,</hi> and I will not cauſe mine anger to fall upon thee, for I am mercifull, <hi>Jer.</hi> 3.5.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>How ſhall I looke upon thee <hi>Gracious Lord,</hi> for I have multiplied ſins againſt thee.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>As thou haſt multiplied ſins, ſo will I</hi>
+                     <note n="(f)" place="margin">Or will abundant<g ref="char:EOLhyphen"/>ly pardon.</note> 
+                     <hi>multiply pardons, if thou wilt re<g ref="char:EOLhyphen"/>turne unto me the Lord,</hi> Eſa. 55.7.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Oh but Lord, I ſcarce think, that any ſo wicked as my ſelfe were ſaved, for I was an <hi>Idolater,</hi> an <hi>Adulterer,</hi> a <hi>Thiefe,</hi> a <hi>Drunkard,</hi> and what not, that was wicked.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Such were many of my ſervants that are now in heaven, but I accor<g ref="char:EOLhyphen"/>ding to my owne kindneſſe, and pitty to them, ſaved them by</hi> waſhing, ſancti<g ref="char:EOLhyphen"/>fying, <hi>and</hi> juſtifying <hi>them, by my owne</hi>
+                     <note n="(g)" place="margin">Or power</note> 
+                     <hi>Name, Blood, and Spirit,</hi>
+                     <pb n="12" facs="tcp:169787:13"/>1 Cor. 9.6, 9, 10, 11. Tit. 3.3, 4, 5, 6, 7.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Oh but mercifull Saviour, I was a Ring-leader of others into ſinne, and I enticed, and drew ma<g ref="char:EOLhyphen"/>ny into wickedneſſe, and therefore my caſe is far worſe then others.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>As thou waſt a</hi> Ring-leader, <hi>and</hi> Enticer <hi>of others into ſin, ſo I can make thee a</hi> guide <hi>and</hi> leader <hi>of others into, and in the way of righteouſneſſe, as I made thy Country-man</hi> Levi <hi>and others.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>But that which makes me fear moſt, is becauſe I was a <hi>Blaſphemer, Reviler,</hi> and <hi>Perſecutor</hi> of thy peo<g ref="char:EOLhyphen"/>ple, yea many of thy Saints, did I ſhut up in Priſon.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Yet thou ſhalt have mercy, be<g ref="char:EOLhyphen"/>cauſe thou didſt it ignorantly through un<g ref="char:EOLhyphen"/>beliefe,</hi> 1 Tim. 1.13.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Oh but Lord, I finde my heart is hardened, through the deceitful<g ref="char:EOLhyphen"/>neſſe, and cuſtome of ſinne, that I cannot hope it will ever be other<g ref="char:EOLhyphen"/>wiſe.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>I can, and will take the ſtony heart
+<pb n="13" facs="tcp:169787:13"/>out of thy fleſh, and I will give thee a heart of fleſh,</hi> Eze. 36.26.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Lord wilt thou doe all for mee?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>I muſt do all for thee, for without mee thou canſt doe nothing,</hi> Phil. 2.13. Joh. 15.5.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Lord, what then ſhall I do?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Before I teach thee what thou muſt doe; I will firſt ſhew thee, what I have done, and ſuffered for thee.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Good Maſter I deſire to know that.</p>
+               </sp>
+               <sp>
+                  <speaker>J,</speaker>
+                  <p n="1">1. <hi>I left my own glory, and came into the world to ſave thee, and ſuch ſinners as thou art,</hi> John 17.5. 1 Tim 1.15.</p>
+                  <p n="2">2. <hi>Though I was the onely Son of my Father, and in his own forme, and e<g ref="char:EOLhyphen"/>quall to him; yet I tooke upon mee the forme of a ſervant, for thee and thy bre<g ref="char:EOLhyphen"/>threns ſake,</hi> Joh. 1.14. Phil. 2.6, 7, 8.</p>
+                  <p n="3">3. <hi>Though I was Heire of all things, and Poſſeſſour of</hi> heaven <hi>and</hi> earth, <hi>yet I became poore and hungry, that thou mighteſt be made rich,</hi> Heb. 1.2. Gen. 14.19. and 2 Cor. 8.9.</p>
+                  <pb n="14" facs="tcp:169787:14"/>
+                  <p n="4">4. <hi>Though I deſerved honour, and glory; yet I was reviled, threamed, and perſecuted by my owne creatures, and all for my good will to thee,</hi> Heb. 2.9. 1 Pet. 2.23.</p>
+                  <p n="5">5. <hi>Though I had no ſinne, yet I was made ſin that thou poore ſinner mighteſt eſcape ſin,</hi> 1 Pet. 1.19. and 2.22, 2 Cor. 1.21.</p>
+                  <p n="6">6. <hi>Though I was a Law-giver, and Law-maker, yet I became under the curſe of my own Law, that I might re<g ref="char:EOLhyphen"/>deem thee from that curſe,</hi> Eſa. 33.22. Gal. 3.13.</p>
+                  <p n="7">7. <hi>When I had power over mine own life, and no man could take it from mee, yet I laid it downe for thee, that thou mighteſt have life,</hi> Joh. 10.18. Rom. 5.6.9. 1 Ioh. 3.16.</p>
+                  <p n="8">8. <hi>Though I was my fathers delight, and an object of his love from everlaſt<g ref="char:EOLhyphen"/>ing: yet I became an object of his wrath, for my love to thee,</hi> Prov. 8.30. Pſa. 88.16. &amp; 102.10.</p>
+                  <p n="9">9. <hi>When thou waſt an enemy, and ſtranger to God my father, I made peace betweene him, and thee, and re<g ref="char:EOLhyphen"/>conciled
+<pb n="15" facs="tcp:169787:14"/>thee to him by my death, and jufferings,</hi> Rom. 5.10. Col. 1.20, 21. Eph. 2.12, 13.</p>
+                  <p n="10">10. <hi>When thou wert a ſlave to the Devil, and a fire-brand of hel; I did reſcue thee from the power of the one, and redeem thee from the plague and puniſhment of the other,</hi> 2 Tim. 2.25. Amos 4.11. Heb. 2.14, 1 Theſ. 1.10.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Oh Lord I did not deſerve a<g ref="char:EOLhyphen"/>ny of this from thee.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>True thou didſt not deſerve it, but yet I did it freely, and out of my love to thee,</hi> Rom. 3.24. Eph. 5.2.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Are all my ſins, Lord, ſatisfied for, and done away by thy death.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Yes, they are perfectly ſatisfied for, and abſolutely don away out of my fathers ſight, never to be imputed again to thee,</hi> 2 Cor. 5.19.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>And is there nothing now in the way that hinders me to bee ſaved?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>No, there is nothing, for I have taken all things out of the way, that hin<g ref="char:EOLhyphen"/>dred thee to be ſaved,</hi> Col. 2.14.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>And am I to do nothing to be ſaved?</p>
+               </sp>
+               <pb n="16" facs="tcp:169787:15"/>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>No, nothing at all towards thy owne ſalvation, for I have bought thee from death, and purchaſed thee life, and ſalvation,</hi> 1 Cor. 6.20. 1 Pet. 1.18, 19. Eph. 1.14.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Shall I then be ſaved Lord?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Yes, if thou wilt beleeve, and truſt wholly and onely upon me, and upon my righteouſneſſe and merits, thou ſhalt bee ſaved,</hi> Joh. 3.36. Rom. 9.33. and Ro. 10.9.11.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Lord I would beleeve, but I partly am afraid to beleeve; and partly, I am ſo weak I cannot be<g ref="char:EOLhyphen"/>leeve.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Thou poor fearefull heart, feare not, but be ſtrong</hi> Eſa. 35.4. <hi>But tell me why thou art afraid.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Leaſt I ſhould preſume, or leaſt <hi>I</hi> ſhould beleeve, and have no ground for my faith.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>It is not preſumption for thee to do what I command thee, but it is obedience, and is not my word of promiſe a ſufficient ground for thy faith?</hi> 1 Ioh. 3.23. Joh. 5.24.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Doeſt thou then Lord com<g ref="char:EOLhyphen"/>mand
+<pb n="17" facs="tcp:169787:15"/>me to beleeve?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Yes, feare not, beleeve on me, and thou ſhalt be ſaved,</hi> Lu. 8.50. with Act. 16.31.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>But Lord though thou com<g ref="char:EOLhyphen"/>mandeſt me, yet I have no power to beleeve.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>I will write my law in thy heart, and will inable and give thee power to be<g ref="char:EOLhyphen"/>leeve,</hi> Heb. 8.10. Mat. 12.21.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Lord if thou wilt alſo give me power to beleeve, I will ac<g ref="char:EOLhyphen"/>knowledge I am nothing, but what I am in thee; and that I have no<g ref="char:EOLhyphen"/>thing, but what I have received from thee.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Doest thou not beleeve?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Oh yes, now Lord I do be<g ref="char:EOLhyphen"/>leeve, Ioh. 9.38.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>This is the worke and gift of God that thou doſt beleeve; for fleſh and blood hath not wrought this in thee,</hi> Ioh. 6.29. Eph. 2.8.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Oh Lord, I do acknowledge it to be thy worke, but I am afraid I ſhall looſe this faith againe.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>I that am the Authour of thy faith,
+<pb n="18" facs="tcp:169787:16"/>will alſo finiſh it: be therefore of good cheare, for thou art one of my Fathers children, and of my Saints, and my ſpi<g ref="char:EOLhyphen"/>rit ſhall abide in thee for ever,</hi> Heb. 12.2 Iohn 1.12. Iohn 4.14. Iohn 7.38 39.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Lord I have ſinned againſt thy father, and againſt thee, and I am unworthy to bee called either his Son, or thy Servant, <hi>Luk.</hi> 15.21.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Sonne, thy ſins are forgiven thee, ſinne no more,</hi> Luke 5.23. Iohn 8 11.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Lord I am afraid I ſhall ſinne againe, though I deſire, and reſolve never to do it. But what Lord, if I ſhould ſinne againſt my will?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Thou canſt not ſinne willingly and wilfully; for my ſeede of grace will remain in thee, and if thou ſinneſt through weakneſſe, and frailty, I will be an Ad<g ref="char:EOLhyphen"/>vocate, and propitiation for thy ſinnes,</hi> 1 Ioh. 3.9. 1 Ioh. 2.12.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Is it then thy will Lord, that I ſhould have forgiveneſſe of my ſins, and doubt no more?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Yes ſure, for theſe things have I
+<pb n="19" facs="tcp:169787:16"/>ſpoken, that thou ſhouldeſt have a full aſſu<g ref="char:EOLhyphen"/>rance, and doubt no more.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>But what if Sathan, when he ſees me ſinne, will tempt me to doubt again?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Say unto him, that I am faithfull and juſt to forgive thee thy ſinnes, and that my blood cleanſeth thee from all ſin.</hi> 1 Ioh. 17.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>But Lord wilt not thou have me to confeſſe my ſinnes?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Yes, I will have thee confeſſe them, be ſorry for them, and forſake them,</hi> 1 Ioh. 1.9. Prov. 28.13.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>But Lord, is it thy minde, that I ſhould alwayes be ſorrow<g ref="char:EOLhyphen"/>full?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>No, but it is my mind, rather that thou ſhouldeſt always rejoyce, and have ſtrong conſolation,</hi> Phil. 4.4. Heb. 6.18.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Oh Lord, I cannot chuſe but cry, and mourn and be aſhamed, and hate my ſelfe for all my for<g ref="char:EOLhyphen"/>mer wickedneſſe, and ungodlineſſe <hi>Ezek.</hi> 16.61.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Thou maieſt do that, and yet hold
+<pb n="20" facs="tcp:169787:17"/>faſt thy confidence; for the ſpirit of mour<g ref="char:EOLhyphen"/>ning, and the ſpirit of grace, and adop<g ref="char:EOLhyphen"/>tion, may be in thy heart at once, and the one not deſtroy the other,</hi> Zac. 12.10.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Lord how is that?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Thou maiſt mourne at the ſight of thy ſins, as they were comitted againſt me, and for thy denying, ſelling and crucifying me, and yet thou maieſt beleeve (becauſe I have ſaid ſo) that they are all pardoned. As</hi> Joſephs <hi>brethren, cryed, and com<g ref="char:EOLhyphen"/>plained for their guiltineſſe in ſelling him, yet they were glad that he was alive, and could helpe them in their diſtreſſe,</hi> Gen. 42.21, 22.</p>
+               </sp>
+               <sp>
+                  <speaker>P.</speaker>
+                  <p>Now Lord thou haſt taught me, what I ſhould do in reſpect of my ſelfe; but now Lord I would do ſomething for thee.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Come then and follow me,</hi> Mat. 9.9. <hi>And he aroſe and followed him.</hi>
+                  </p>
+               </sp>
+            </div>
+            <div type="dialogue">
+               <pb n="21" facs="tcp:169787:17"/>
+               <head>The ſecond Conference between Chriſt, and a Phariſee.</head>
+               <sp>
+                  <speaker>Phariſee.</speaker>
+                  <p>THen one of the Phariſees came to him, and asked him, what ſhal I do to work the work of God Joh. 6.28?</p>
+               </sp>
+               <sp>
+                  <speaker>Jeſus.</speaker>
+                  <p>
+                     <hi>This is the worke of God, that thou beleeve in him</hi> (viz. me) <hi>whom he hath ſent,</hi> Joh. 6.29.</p>
+               </sp>
+               <sp>
+                  <speaker>Ph:</speaker>
+                  <p>But Maſter what good thing ſhall I do, that I may have eternall life, <hi>Mat.</hi> 19.16.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>If thou wilt be ſaved by doing, then keep the Commandements.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ph:</speaker>
+                  <p>I have kept them all from my youth, <hi>Mat.</hi> 19.20.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Then thou art no ſinner.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ph:</speaker>
+                  <p>Yes, we are all ſinners; but I thanke God I am not as other men are, Extortioners, Unjuſt, Adulte<g ref="char:EOLhyphen"/>rers, or even as this Publican, <hi>Luke</hi> 18.11.</p>
+               </sp>
+               <pb n="22" facs="tcp:169787:18"/>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Why, what doeſt thou more than this Publican?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ph:</speaker>
+                  <p>I faſt twice in the weeke, and give tithes of all that I poſſeſſe, and concerning the Law, I live blame<g ref="char:EOLhyphen"/>leſſe, <hi>Luk.</hi> 18.12. <hi>Phil:</hi> 3.6.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Haſt thou never read, that they which followed after the Law of Righte<g ref="char:EOLhyphen"/>ouſneſſe, have not attained to the Law of Righteouſneſſe,</hi> Rom. 9.31.</p>
+               </sp>
+               <sp>
+                  <speaker>Ph:</speaker>
+                  <p>No, I never obſerved that, but I remember another text, where God ſaith, I gave them my Sta<g ref="char:EOLhyphen"/>tutes, and ſhewed them my Judge<g ref="char:EOLhyphen"/>ments, which if a man do, he ſhall live in them, <hi>Ezek.</hi> 20.11.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Doeſt thou then think to go to hea<g ref="char:EOLhyphen"/>ven by doing?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ph:</speaker>
+                  <p>Not by doing onely, but by doing good, and departing from e<g ref="char:EOLhyphen"/>vill.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>But doth not the Law ſay, curſed is he that obſerveth not all things that are written in the words of the Law to do them,</hi> Deut: 27.26.</p>
+               </sp>
+               <sp>
+                  <speaker>Ph:</speaker>
+                  <p>Yes, that is, whoſoever breaks the Law is accurſed, unleſſe hee re<g ref="char:EOLhyphen"/>pents for it</p>
+               </sp>
+               <pb n="23" facs="tcp:169787:18"/>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>The Law doth not ſay, unleſſe men repent for breaking it, they are accurſed, but it ſays abſolutely they are curſed, and I ſay whoſoever keepeth the whole law, and yet offendeth in one point, he is guil<g ref="char:EOLhyphen"/>ty of all,</hi> Gal. 3.10. Jam: 2.10. Mat: 5.19.</p>
+               </sp>
+               <sp>
+                  <speaker>Ph:</speaker>
+                  <p>I ſay ſo too, that except men keep the law of <hi>Moſes</hi> they<note n="(a)" place="margin">Acts 15.1.24.</note> can<g ref="char:EOLhyphen"/>not be ſaved, and whoſoever<note n="(b)" place="margin">Joh. 7 49</note> know not, and keepe not the Law, they are accurſed.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Doeſt thou know the Law?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ph:</speaker>
+                  <p>Yes, I know the Law, for I am inſtructed daily out of the Law, by our<note n="(c)" place="margin">Zeph. 3.4</note> Doctors of the Law and holy Prieſts.</p>
+               </sp>
+               <sp>
+                  <speaker>J:</speaker>
+                  <p>
+                     <hi>The Prieſts have done violence to the Law, and they that</hi>
+                     <note n="(d)" place="margin">Jer. 2.8.</note> 
+                     <hi>handle the Law know not the Lord.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ph:</speaker>
+                  <p>
+                     <hi>Jehovah,</hi> hath ſaid, that the Law ſhal not periſh, from the Prieſts for the Prieſts lips is to keep know<g ref="char:EOLhyphen"/>ledge, and we are to ſeek the Law at his mouth, <hi>Jer:</hi> 18.18. <hi>Mal:</hi> 2.7.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>God hath ſaid alſo, that the Law ſhall</hi>
+                     <note n="(e)" place="margin">Ez. 7.16,</note> 
+                     <hi>periſh from the Prieſts, and that
+<pb n="24" facs="tcp:169787:19"/>they</hi>
+                     <note n="(f)" place="margin">Jer. 31.4</note> 
+                     <hi>ſhall not every man teach his neighbour any more, for all ſhall know the Lord, from the leaſt to the grea<g ref="char:EOLhyphen"/>teſt.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ph:</speaker>
+                  <p>I perceive thou goeſt about to deſtroy the Law.</p>
+               </sp>
+               <sp>
+                  <speaker>J:</speaker>
+                  <p>
+                     <hi>Thinke not ſo: for I am not come to deſtroy the Law, but to fulfill it,</hi> Mat: 5.17. Luke. 16.17.</p>
+               </sp>
+               <sp>
+                  <speaker>Ph:</speaker>
+                  <p>I Sir, I like that, that wee ſhould fulfill the Law, for <hi>Moſes</hi> gave us the Law, that wee ſhould performe it.</p>
+               </sp>
+               <sp>
+                  <speaker>J:</speaker>
+                  <p>
+                     <hi>Yes,</hi> Moſes <hi>gave you the Law, but</hi>
+                     <note n="(a)" place="margin">Joh. 7.19</note> 
+                     <hi>none of you keepeth it, but</hi>
+                     <note n="(b)" place="margin">Mal. 2.9.</note> 
+                     <hi>you have beene partiall in the Law.</hi>
+                     <note n="(c)" place="margin">mat. 23.23</note> 
+                     <hi>Ye pay tithe of Mint, Annis, and Cum<g ref="char:EOLhyphen"/>ming, and have omitted the weightier matters of the Law, Judgement, Mercy, and Faith.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ph:</speaker>
+                  <p>It is true, we may come ſhort in ſome things, but he that keepeth the Law happy is he.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Thou that</hi>
+                     <note n="(d)" place="margin">Ro. 2.17. verſ. 23.</note> 
+                     <hi>reſteſt in the Law, and makeſt thy boaſt of the Law, through breaking the Law thou doest diſhonour God; and cauſeſt many to</hi>
+                     <note n="(f)" place="margin">Mal. 2.8.</note> 
+                     <hi>ſtumble at
+<pb n="25" facs="tcp:169787:19"/>the Law, verily I ſay unto thee, thou</hi>
+                     <note n="(g)" place="margin">Ro. 2.12.</note> 
+                     <hi>ſhalt be judged by the Law.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ph:</speaker>
+                  <p>No, I hope rather, to be ju<g ref="char:EOLhyphen"/>ſtified, then to bee judged by the Law.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Verily, verily, I ſay unto thee, by the deeds of the Law, there ſhall no fleſh be juſtified in Gods ſight,</hi> Rom. 3.20. Gal: 3.11.</p>
+               </sp>
+               <sp>
+                  <speaker>Ph:</speaker>
+                  <p>How then ſhall I bee juſtifi<g ref="char:EOLhyphen"/>ed?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>The righteouſneſſe of God without the Law is manifeſt, being witneſſed by the Law and the Prophets,</hi> Rom. 3.21.</p>
+               </sp>
+               <sp>
+                  <speaker>Ph:</speaker>
+                  <p>What Righteouſneſſe is that?</p>
+               </sp>
+               <sp>
+                  <speaker>J:</speaker>
+                  <p>
+                     <hi>Not a mans</hi>
+                     <note n="(h)" place="margin">Phil. 3.9.</note> 
+                     <hi>own righteouſneſſe, which is called, the</hi>
+                     <note n="(i)" place="margin">Ro. 2.26.</note> 
+                     <hi>Righteouſneſſe of the Law: but the</hi>
+                     <note n="(k)" place="margin">Ro 4.13.</note> 
+                     <hi>righteouſneſſe which is of God by faith.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ph:</speaker>
+                  <p>What difference is there be<g ref="char:EOLhyphen"/>tweene the righteouſneſſe of the Law, and the righteouſneſſe of faith?</p>
+               </sp>
+               <sp>
+                  <speaker>J:</speaker>
+                  <p>Moſes <hi>deſcribeth the righteouſ<g ref="char:EOLhyphen"/>neſſe of the Law,</hi> thus, <hi>that the man
+<pb n="26" facs="tcp:169787:20"/>which doth thoſe things which the Law requireth ſhall live by them: but the righteouſneſſe of faith, ſaith, whoſoever beleeveth on me ſhall be ſaved,</hi> Ro, 10.5.6.11.</p>
+               </sp>
+               <sp>
+                  <speaker>Ph:</speaker>
+                  <p>How can men bee ſaved by beleeving in thee, for thou art but one?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>As by one</hi>
+                     <note n="(l)" place="margin">Rom. 5.7</note> 
+                     <hi>mans offence death reig<g ref="char:EOLhyphen"/>ned, by one much more, they which receive abundance of grace, and of the gift of righteouſneſſe, ſhall reigne in life by mee, who am the</hi>
+                     <note n="(m)" place="margin">Mal. 4.2.</note> 
+                     <hi>ſonne of righteouſneſſe,</hi>
+                     <note n="(n)" place="margin">Cor. 1.30</note> 
+                     <hi>and made by God my Father to bee righteouſneſſe unto men.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ph:</speaker>
+                  <p>Thou beareſt record of thy ſelfe, <hi>Joh.</hi> 8.13.</p>
+               </sp>
+               <sp>
+                  <speaker>J:</speaker>
+                  <p>
+                     <note n="(o)" place="margin">Joh. 8, 14.</note> 
+                     <hi>Though I bear record of my ſelfe, yet my record is true.</hi>
+                     <note n="(p)" place="margin">Joh. 5.11</note> 
+                     <hi>My Fa<g ref="char:EOLhyphen"/>ther alſo beareth witneſſe of mee, and this is his witneſſe, that he hath given life, and this life is in (me) his ſon.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ph:</speaker>
+                  <p>But what ſayeſt thou, how was our father <hi>Abraham</hi> and his ſeed (who lived before thee) juſtified and ſaved?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <note n="(q)" place="margin">Joh. 8.56</note> 
+                     <hi>Your Father</hi> Abraham, <hi>re<g ref="char:EOLhyphen"/>joyced
+<pb n="27" facs="tcp:169787:20"/>to ſee my day, and be ſaw it, and was glad, for</hi>
+                     <note n="(r)" place="margin">Ro. 4.3.11, 13, 16. Gal. 3.14.18.20:</note> 
+                     <hi>I was before</hi> Abra<g ref="char:EOLhyphen"/>ham, <hi>and be and his ſpirituall ſeed, were juſtified and ſaved by faith in me.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ph:</speaker>
+                  <p>But was not <hi>Abraham</hi> juſtifi<g ref="char:EOLhyphen"/>ed by workes?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>If</hi> Abraham <hi>were juſtified by workes, he hath whereof to glory,</hi>
+                     <note place="margin">It is true, <hi>Abrahams</hi> faith was accompa<g ref="char:EOLhyphen"/>nied with workes.</note> 
+                     <hi>but net before God: for what ſaith the Serip<g ref="char:EOLhyphen"/>ture.</hi> Abraham <hi>beleeved God, and it was accounted to him for righteouſneſſe,</hi> Ro. 4.2.3.</p>
+               </sp>
+               <sp>
+                  <speaker>Ph:</speaker>
+                  <p>If I bee not juſtified by my good works, to what end ſhould I performe them?</p>
+               </sp>
+               <sp>
+                  <speaker>J:</speaker>
+                  <p>
+                     <hi>Though thy good workes cannot ju<g ref="char:EOLhyphen"/>ſtifie thee before God, yet they may glo<g ref="char:EOLhyphen"/>rifie God, and be profitable unto men,</hi> Mat. 5.16. Tit. 3.8.</p>
+               </sp>
+               <sp>
+                  <speaker>Ph:</speaker>
+                  <p>Well then, I am glad my good workes bee good for ſome<g ref="char:EOLhyphen"/>thing.</p>
+               </sp>
+               <sp>
+                  <speaker>J:</speaker>
+                  <p>
+                     <hi>Yes, thy good workes would bee good for ſomething, if thy faith</hi> (<hi>like</hi> A<g ref="char:EOLhyphen"/>brahams) <hi>did work with thy works: but thou doeſt not beleeve, and all thy good works, thou doeſt, to be ſeen of men,</hi> Iam.
+<pb n="28" facs="tcp:169787:21"/>2.22. Mat: 23.5.</p>
+               </sp>
+               <sp>
+                  <speaker>Ph:</speaker>
+                  <p>No, <hi>I</hi> doe not do my good workes to bee ſeene of men, but to pleaſe God.</p>
+               </sp>
+               <sp>
+                  <speaker>J:</speaker>
+                  <p>
+                     <hi>I tell thee that</hi> without faith it is impoſſible to pleaſe God, Heb: 11.6.</p>
+               </sp>
+               <sp>
+                  <speaker>Ph:</speaker>
+                  <p>But God hath ſaid, if a man doe well, hee ſhall be accepted.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>It is not for their well-doing that men are accepted with my father, but they are made acceptable in mee, and their works are accepted for my ſake,</hi> Eph. 1.6. 1 Pet: 2.6.</p>
+               </sp>
+               <sp>
+                  <speaker>Ph:</speaker>
+                  <p>But am I no nearer Heaven, that performe good workes, than this ſinfull and ungodly Publican?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Thou Hypocrite that juſtifieſt thy ſelfe, and judgeſt another: I tell thee, that Publicans and Harlots, ſhall enter into the Kingdom of Heaven before ſuch as thou art,</hi> Mat: 7.5. and 21 31.</p>
+               </sp>
+               <sp>
+                  <speaker>Ph:</speaker>
+                  <p>Oh untrue, and falſe-doct<g ref="char:EOLhyphen"/>rine, to ſay, that thoſe curſed men who know not the Law, ſhould bee ſaved before us, who are the children of <hi>Abraham,</hi> Ioh. 7.49. &amp; 8.33.</p>
+               </sp>
+               <pb n="29" facs="tcp:169787:21"/>
+               <sp>
+                  <speaker>J:</speaker>
+                  <p>
+                     <hi>Thou blinde, and ſelfe-conceited</hi> Phariſee, <hi>underſtandeſt thou not the Scripture?</hi> I will have mercy, and not ſacrifice, for I am not come to call the righteous, but ſinners to repentance. <hi>And I ſay unto thee, un<g ref="char:EOLhyphen"/>leſſe thou doeſt beleeve in mee, thou art not the child of</hi> Abraham, Mat. 9.13. Gal. 3.26.</p>
+               </sp>
+               <sp>
+                  <speaker>Ph:</speaker>
+                  <p>I beleeve in the God of <hi>A<g ref="char:EOLhyphen"/>braham,</hi> the God of <hi>Iſaack,</hi> and the God of <hi>Jacob,</hi> whoſe child and ſer<g ref="char:EOLhyphen"/>vant I am.</p>
+               </sp>
+               <sp>
+                  <speaker>J:</speaker>
+                  <p>
+                     <hi>If thou didſt beleeve in God, thou wouldeſt alſo beleeve in mee, but thou art the child of the devill, and in bondage to this day,</hi> Ioh: 8.44. Gal. 4.25.</p>
+               </sp>
+               <sp>
+                  <speaker>Ph:</speaker>
+                  <p>How am I in bondage?</p>
+               </sp>
+               <sp>
+                  <speaker>J:</speaker>
+                  <p>
+                     <hi>Thou art under the curſe of the Law, and under the power of ſinne and Sathan; and canſt never be made free, unleſſe I make thee free,</hi> Ioh: 8.34, 35, 36.</p>
+               </sp>
+               <sp>
+                  <speaker>Ph:</speaker>
+                  <p>How doeſt thou free men?</p>
+               </sp>
+               <sp>
+                  <speaker>J:</speaker>
+                  <p>
+                     <hi>By my</hi>
+                     <note n="(a)" place="margin">Gal. 3.13</note> 
+                     <hi>death, and ſufferings, I ſatisfie the Law; by the</hi>
+                     <note n="(b)" place="margin">1 Cor. 15.55, 57.</note> 
+                     <hi>power of my reſurrection, I overcome death; and
+<pb n="30" facs="tcp:169787:22"/>by my Spirit, I</hi>
+                     <note n="(m)" place="margin">Mat. 12.28</note> 
+                     <hi>caſt out Sathan, and</hi>
+                     <note n="(n)" place="margin">Rom. 8.2</note> 
+                     <hi>ſubdue ſinne.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ph.</speaker>
+                  <p>Sir, I hope to be freed ano<g ref="char:EOLhyphen"/>ther way, to wit, by my ſacrifices prayers, and good works.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Thy ſacrifices and thy prayers, are an abomination unto me, and thy workes are not found perfect before God,</hi> Eſa. 66.3. Prov. 15.8. and 28.9. Rev. 3.2.</p>
+               </sp>
+               <sp>
+                  <speaker>Ph.</speaker>
+                  <p>What doſt thou thinke to beat me off from my long prayers, and good workes? I hope by theſe, together with my faſting, and mourning, to lay a ſure, and hap<g ref="char:EOLhyphen"/>py foundation for my ſoule, for ever.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Thou worker of iniquity, that doſt</hi>
+                     <note n="(a)" place="margin">Eſa. 32.6</note> 
+                     <hi>practice hypocriſie, I tell thee, thy prayers are</hi>
+                     <note n="(b)" place="margin">Pſ. 109.7</note> 
+                     <hi>ſinne, thy workes are done to be ſeen of men; thou alſo faſteſt for</hi>
+                     <note n="(c)" place="margin">Eſ. 58.4.5</note> 
+                     <hi>ſtrife, and thy mourning is but hypocriticall: therefore inſtead of lay<g ref="char:EOLhyphen"/>ing a ſure and happy foundation, thou</hi>
+                     <note n="(d)" place="margin">Iob 36.13</note> 
+                     <hi>heapeſt up wrath to thy ſelfe, againſt the day of wrath.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ph.</speaker>
+                  <p>Sir, I am not a hypocrite,
+<pb n="31" facs="tcp:169787:22"/>but a true childe of God, and I hope I ſhall be ſaved, for I know moſt good men take me for a god<g ref="char:EOLhyphen"/>ly and righteous man.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Though thou doſt outwardly</hi>
+                     <note n="(e)" place="margin">Mat. 23.28</note> 
+                     <hi>ap<g ref="char:EOLhyphen"/>peare righteous unto men, yet within thou art full of hypocriſie and iniquity; thou ſeed of the Serpent, thy</hi>
+                     <note n="(f)" place="margin">Job. 8.13.</note> 
+                     <hi>hope will periſh, for thou canſt not</hi>
+                     <note n="(g)" place="margin">Mat. 23.33.</note> 
+                     <hi>eſcape the damnation of hell.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ph.</speaker>
+                  <p>I doe not feare what thou ſaieſt, for I am better perſwaded of my ſelfe.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Though thy ſeared conſcience, and hardned heart hinders thee yet from fea<g ref="char:EOLhyphen"/>ring; yet feare, terrour, 'and trembling ſhall</hi>
+                     <note n="(h)" place="margin">Eſ. 33.14 Deu. 32.22</note> 
+                     <hi>ſurpriſe, and fill thy ſpirit, that thou ſhalt roare in</hi>
+                     <note n="(i)" place="margin">Luk. 3.17 Mark. 9.43 44, 46.</note> 
+                     <hi>flames of fire, and in everlaſting burnings.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ph.</speaker>
+                  <p>I have joy and comfort in my ſpirit often from my perfor<g ref="char:EOLhyphen"/>mances, and I know that God will heare my prayers, that I make publickly and privately unto him.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Thou painted Sepulchre, haſt thou not read! that the</hi>
+                     <note n="(k)" place="margin">Iob. 20.5</note> 
+                     <hi>joy of an hypocrite
+<pb n="32" facs="tcp:169787:23"/>is but for a moment? and that an hypo<g ref="char:EOLhyphen"/>crite ſhall not</hi>
+                     <note n="(l)" place="margin">Iob 13.16</note> 
+                     <hi>come before God. And doſt thou not</hi>
+                     <note n="(m)" place="margin">Iob 15.4</note> 
+                     <hi>reſtraine prayer before God; and when thou prayest, doſt thou not doe it publickly to bee</hi>
+                     <note n="(n)" place="margin">Mat. 6.5</note> 
+                     <hi>ſeen of men?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ph.</speaker>
+                  <p>I pray in private alſo.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Then it is either when ſome</hi>
+                     <note n="(o)" place="margin">Eſa. 26.16</note> 
+                     <hi>puniſhment is upon thee, or elſe to quiet thy carnall conſcience.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ph.</speaker>
+                  <p>Mr. why doſt thou reproach me in ſaying thus?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Thou diſſembler that</hi>
+                     <note n="(p)" place="margin">Ioh. 5.44</note> 
+                     <hi>ſeekeſt honour of men, and not the honour which commeth from God: thou art to expect nothing but ſhame, and</hi>
+                     <note n="(q)" place="margin">Dan. 12.2</note> 
+                     <hi>everlaſting contempt.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ph.</speaker>
+                  <p>Sir, thou judgeſt raſhly.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>No, as I heare, I judge, and my judgement is juſt and true,</hi> Joh. 5.30. and 8.16.26.</p>
+               </sp>
+               <sp>
+                  <speaker>Ph.</speaker>
+                  <p>How knoweſt thou what I am, that thou ſo judgeſt?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>I am he that ſearcheth the heart, and trieth the reines, and I will give to every one of you according to your works,</hi> Rev. 2.23.</p>
+               </sp>
+               <pb n="31" facs="tcp:169787:23"/>
+               <sp>
+                  <speaker>Ph.</speaker>
+                  <p>When thou judgeſt the world, what difference wilt thou make between us that ſerved God, and the Heathens that ſerved him not?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>The difference will be this, that your</hi>
+                     <note n="(r)" place="margin">Mat. 23.14. Mar. 12 40. Lu. 20.47.</note> 
+                     <hi>condemnation will be the greater, becauſe (though ye knew God, yet) ye ſerved him</hi>
+                     <note n="(s)" place="margin">Mat. 15.9</note> 
+                     <hi>vainly, falſely, and</hi>
+                     <note n="(t)" place="margin">Eſa. 57.4</note> 
+                     <hi>hy<g ref="char:EOLhyphen"/>pocritically.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ph.</speaker>
+                  <p>Good Maſter, I would eſ<g ref="char:EOLhyphen"/>cape this condemnation, for I be<g ref="char:EOLhyphen"/>leeve it will be great, and thy words begin to terrifie mee al<g ref="char:EOLhyphen"/>ready.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>I have told thee already, that there is no other way for thee to eſcape it, but onely by me, but yet thou doſt not beleeve me,</hi> Joh. 10.25.</p>
+               </sp>
+               <sp>
+                  <speaker>Ph.</speaker>
+                  <p>How wilt thou have me be<g ref="char:EOLhyphen"/>leeve in thee?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Firſt, I will have thee ſee thy ſelfe to be the</hi>
+                     <note n="(v)" place="margin">1 Tim. 1 15.</note> 
+                     <hi>greateſt and vileſt of ſinners, and then ſee all thy</hi>
+                     <note n="(u)" place="margin">Eſa. 64 6</note> 
+                     <hi>owne righteouſneſſes, ſervices, and performan<g ref="char:EOLhyphen"/>ces, to be as filthy and menſtruous rags: And after thou haſt denied and</hi>
+                     <note n="(w)" place="margin">Eze. 36.31.</note> 
+                     <hi>ab<g ref="char:EOLhyphen"/>horred
+<pb n="32" facs="tcp:169787:24"/>thy ſelfe, then cry out, Maſter, ſave me, or elſe I periſh; for the</hi>
+                     <note n="(x)" place="margin">Mat 9.12</note> 
+                     <hi>whole need not a Phyſitian, but thoſe that are ſicke.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ph.</speaker>
+                  <p>I doe ſee my ſelfe a ſinner, and I am ſorry for my ſinnes. And doth not God ſay, <hi>that whoſoever con<g ref="char:EOLhyphen"/>feſſeth and forſaketh his ſins ſhall finde mercy.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>I ſay unto thee (thou luke-warme Profeſſor) Except thou eateſt my fleſh, and drinkeſt my bloud; and ſubmitteſtun<g ref="char:EOLhyphen"/>to my righteouſneſſe, thou canſt not be ſa<g ref="char:EOLhyphen"/>ved,</hi> Joh. 6.53.</p>
+               </sp>
+               <sp>
+                  <speaker>Ph.</speaker>
+                  <p>Well then; If I cannot be ſa<g ref="char:EOLhyphen"/>ved by my owne workes, and righ<g ref="char:EOLhyphen"/>teouſneſſe, Maſter, let mee bee be<g ref="char:EOLhyphen"/>holding to thee to ſave me.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Haſt thou not read, that</hi>
+                     <note n="(a)" place="margin">Pſal. 3.8.</note> 
+                     <hi>Sal<g ref="char:EOLhyphen"/>vation belongeth onely to the Lord, and that men are ſaved by grace, without the workes of the Law; why then doſt thou ſo</hi>
+                     <note n="(b)" place="margin">Deut. 32 15.</note> 
+                     <hi>lightly eſteem of the Rocke of thy Sal<g ref="char:EOLhyphen"/>vation? by ſeeking to be juſtified and ſa<g ref="char:EOLhyphen"/>ved</hi> (<hi>as</hi>
+                     <note n="(c)" place="margin">Ro. 9 32.</note> 
+                     <hi>it were) by thy owne workes: I tell thee againe, thou muſt</hi>
+                     <note n="(d)" place="margin">Phil. 3.9</note> 
+                     <hi>deny thy owne righteouſneſſe wholly, and looke to
+<pb n="33" facs="tcp:169787:24"/>be found in my righteouſneſſe onely, elſe thou canſt not be ſaved.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ph.</speaker>
+                  <p>Indeed Maſter, thou makeſt the way to Heaven very hard.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>It is ſo hard, that many ſhall ſeeke to enter in, and ſhall not bee able,</hi> Luke 13.24.</p>
+               </sp>
+               <sp>
+                  <speaker>Ph.</speaker>
+                  <p>If it be as thou ſayeſt, I am afraid that many of our beſt Scribes and Phariſees will come ſhort of Heaven.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Thou maiſt be ſure of that, for veri<g ref="char:EOLhyphen"/>ly I ſay unto thee, Except thy righteouſ<g ref="char:EOLhyphen"/>neſſe, exceeds the righteouſneſſe of the Scribes and Phariſees, thou ſhalt in no caſe enter into the Kingdome of Heaven,</hi> Mat. 5.20.</p>
+               </sp>
+               <sp>
+                  <speaker>Ph.</speaker>
+                  <p>But Maſter, there be ſome that doe great works in thy name, ſhall not all ſuch be ſaved?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>No, for many will ſay unto mee hereafter,</hi> Lord, Lord, <hi>have we not propheſied in thy name, and in thy name caſt out devills, and in thy name done ma<g ref="char:EOLhyphen"/>ny wonderfull things; and then will I profeſſe unto them, I never knew you,</hi> depart from mee yee workers of
+<pb n="34" facs="tcp:169787:25"/>iniquity, <hi>Matth.</hi> 7.22.23.</p>
+               </sp>
+               <sp>
+                  <speaker>Ph.</speaker>
+                  <p>But why ſhould not ſuch rather be ſaved then caſt away?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Becauſe they did (as thou doſt) doe all theſe things to be ſeen of men, and to gaine honour unto themſelves, and ſo built their Salvation upon this falſe foundati<g ref="char:EOLhyphen"/>on, as the fooliſh builder built his houſe upon the ſand, which in</hi>
+                     <note n="(g)" place="margin">
+                        <hi>i.e.</hi> Times of triall and perſe<g ref="char:EOLhyphen"/>cution. Luke 8.12</note> 
+                     <hi>time of flood, and winds, could not ſtand, but fell,</hi> Mat. 7.26, 27.</p>
+               </sp>
+               <sp>
+                  <speaker>Ph.</speaker>
+                  <p>I ſee thou doſt reject mee, I thought to be one of thy Diſciples, and to follow thee.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>No, I doe not reject thee, but am very willing to receive thee; but firſt conſider, what thou doſt, and what it will coſt thee, if thou wilt be my Diſ<g ref="char:EOLhyphen"/>ciple, and follow me.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ph.</speaker>
+                  <p>What will it coſt mee Ma<g ref="char:EOLhyphen"/>ſter?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Thou muſt</hi>
+                     <note n="(h)" place="margin">
+                        <hi>i.e.</hi> In compari<g ref="char:EOLhyphen"/>ſon of Chriſt, &amp; when they come in competiti<g ref="char:EOLhyphen"/>on with him. Mat. 10.37.</note> 
+                     <hi>hate thy father and mother, and wife, and children, and brethren, and ſisters, and thine owne life alſo; yea thou muſt goe, and ſell all that thou haſt, and take up thy croſſe daily, and follow mee, elſe thou canſt not bee my
+<pb n="35" facs="tcp:169787:25"/>Diſciple,</hi> Luke 14.26, 27.</p>
+               </sp>
+               <sp>
+                  <speaker>Ph.</speaker>
+                  <p>This is a hard ſaying, who can hear it, and he went away ſor<g ref="char:EOLhyphen"/>rowfull, and followed him no more, <hi>Joh.</hi> 6.60.66. <hi>Mat.</hi> 19.22.</p>
+               </sp>
+            </div>
+            <div type="dialogue">
+               <pb n="36" facs="tcp:169787:26"/>
+               <head>The third Dialogue between Chriſt and a Doubting Beleever.</head>
+               <sp>
+                  <speaker>Chriſt.</speaker>
+                  <p>COme unto me al ye that labour and are heavy laden, and I will give you reſt, <hi>Mat.</hi> 11.28.</p>
+               </sp>
+               <sp>
+                  <speaker>Beleever.</speaker>
+                  <p>
+                     <hi>Oh Lord, I am a poor heavy laden ſin<g ref="char:EOLhyphen"/>ner that would come unto thee, but cannot come.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>It is true O ſoule, no man can come unto me, except the Fa<g ref="char:EOLhyphen"/>ther which hath ſent me draw him, <hi>Joh.</hi> 6.44.</p>
+               </sp>
+               <sp>
+                  <speaker>Bel.</speaker>
+                  <p>
+                     <hi>How then Lord ſhall I come un<g ref="char:EOLhyphen"/>to thee?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>I and my Father are one, and we give power to the faint, and to them that have no might, we adde ſtrength,<note place="margin">Or in<g ref="char:EOLhyphen"/>creaſe.</note> 
+                     <hi>Joh.</hi> 10.30. <hi>Eſay</hi> 40, 29.</p>
+               </sp>
+               <sp>
+                  <speaker>Bel:</speaker>
+                  <p>Lord, <hi>I am altogether without ſtrength, therefore draw mee unto thee, and I will come.</hi>
+                  </p>
+               </sp>
+               <pb n="37" facs="tcp:169787:26"/>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>I will draw thee unto mee with the cords of a man, with bands of love, and with loving kind<g ref="char:EOLhyphen"/>neſſe, <hi>Hoſ.</hi> 11, 4. <hi>Ier.</hi> 31.3. <hi>Ioh.</hi> 12.32.</p>
+               </sp>
+               <sp>
+                  <speaker>Bel:</speaker>
+                  <p>
+                     <hi>But Lord now I looke upon my ſelfe, I ſee I am unworthy to come unto thee; yea, unworthy of the leaſt of thy mercies.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>So ſaid my ſervant<note n="(a)" place="margin">Mat. 3 11.6</note> 
+                     <hi>Iohn</hi> the <hi>Baptiſt,</hi> and<note n="(b)" place="margin">Gen 32.10</note> 
+                     <hi>Iacob,</hi> and<note n="(c)" place="margin">Luk. 7.7. Mat. 8.8.</note> others. yet do not judge thy ſelfe (as the<note n="(d)" place="margin">Acts 13.46.</note> Jewes did) unworthy of eternal life.</p>
+               </sp>
+               <sp>
+                  <speaker>Bel:</speaker>
+                  <p>
+                     <hi>If ſuch men as</hi> John Baptiſt, <hi>and</hi> Jacob <hi>did judge themſelves unwor<g ref="char:EOLhyphen"/>thy; how many thouſand times more ux<g ref="char:EOLhyphen"/>worthy am I, a wretched and wicked ſin<g ref="char:EOLhyphen"/>ner?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>It is true, neither <hi>they,</hi> nor <hi>thou,</hi>
+                     <note place="margin">As the Prodigalls Father did his ſon Lu. 15.21, 22.</note> could be worthy of your ſelves, but yet I am willing to account you worthy, <hi>Luk.</hi> 20.35. and 21.36. <hi>Rev.</hi> 3.4.</p>
+               </sp>
+               <sp>
+                  <speaker>Bel.</speaker>
+                  <p>
+                     <hi>But Lord, if there were any thing that were good in me, it might a little incourage me to come unto thee, but I find nothing but evill in me.</hi>
+                  </p>
+               </sp>
+               <pb n="38" facs="tcp:169787:27"/>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>Doſt thou not know, that without me thou canſt<note n="(e)" place="margin">Ioh 15.5.</note> doe no<g ref="char:EOLhyphen"/>thing; and that a man can<note n="(f)" place="margin">Joh 3.27.</note> re<g ref="char:EOLhyphen"/>ceive nothing, except it bee given him from heaven. Why then doſt thou ſtay away from me who muſt<note n="(g)" place="margin">Eſa. 26.12.2, 12.</note> worke all thy workes in thee. And</p>
+                  <p n="2">2. Becauſe thou ſeeſt nothing but evill in thee, thou ſhouldſt the rather come unto me, who am the<note n="(h)" place="margin">Zac. 13.1</note> Fountaine wherein thy unclean ſoule muſt be waſhed; and unleſſe I<note n="(i)" place="margin">Eze. 36.25. &amp; 1.9</note> waſh thee thou canſt not bee cleane, nor have any<note n="(k)" place="margin">Joh. 13.8</note> part in me.</p>
+               </sp>
+               <sp>
+                  <speaker>Bel:</speaker>
+                  <p>
+                     <hi>True Lord, thou art the</hi> Foun<g ref="char:EOLhyphen"/>taine <hi>and</hi> wel-ſpring <hi>of life, and it is thy blood (and nothing elſe) that can waſh away my ſins: but how can I come near to thee, who am ſo wicked, that for ought I know, have counted thy blood an</hi>
+                     <note n="(l)" place="margin">Heb. 10.29</note> 
+                     <hi>un<g ref="char:EOLhyphen"/>holy thing.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>Thou poor,<note place="margin">Ac. 2.36.41</note> dear, and doub<g ref="char:EOLhyphen"/>ting ſoule, what if thou hadſt had a hand in crucifying mee (as the Jewes had?) yet cannot I forgive thee, as I did many of them. But
+<pb n="39" facs="tcp:169787:27"/>thou haſt not accounted my blood an unholy thing, for thou ſtill deſi<g ref="char:EOLhyphen"/>reſt to have thy ſins waſhed away by it.</p>
+               </sp>
+               <sp>
+                  <speaker>Bel:</speaker>
+                  <p>
+                     <hi>What the Iewes did, they did ignorantly; but I have ſinned againſt knowledge, which makes my ſins worſe then theirs.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>If thou haſt finned againſt knowledge, yet thou haſt not ſin<g ref="char:EOLhyphen"/>ned ſo, but that thou maiſt be for<g ref="char:EOLhyphen"/>given: For my deare Diſciple <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> ſinned againſt knowledge, when hee denied with an oath that hee knew me not, <hi>Mat.</hi> 26.72.</p>
+               </sp>
+               <sp>
+                  <speaker>Bel.</speaker>
+                  <p>
+                     <hi>Oh but yet my ſinnes are worſe then his, for his ſin was but one ſin, and that a ſuddaine and ſhort ſin; but I have ſinned many ſinnes and continued long in them.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>So did my beloved ſervant <hi>David</hi> (who was a man according to my owne heart) commit ſeverall ſinnes together, as <hi>Murther, Whore<g ref="char:EOLhyphen"/>dome &amp;c.</hi> and continued a while too in his ſinnes.</p>
+               </sp>
+               <sp>
+                  <speaker>Bel.</speaker>
+                  <p>
+                     <hi>Oh but Lord, thoſe ſervants of
+<pb n="40" facs="tcp:169787:28"/>thine, though they ſinned againſt thee, yet they expreſſed a great deale of ſence of their ſins, and ſorrow for them; but I can neither be ſenſible of, nor ſorrowfull for mine.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>Oh ſweet ſoule, thou miſtak<g ref="char:EOLhyphen"/>eſt, and forgetteſt thy ſelfe, for thou doſt often confeſſe thy ſinnes before me with <hi>ſence, ſhame,</hi> and <hi>ſor<g ref="char:EOLhyphen"/>row.</hi> And I hear thee daily bemoa<g ref="char:EOLhyphen"/>ning, and complaining, and ſaying I <hi>have</hi>
+                     <note n="(n)" place="margin">Iob 7.20. Pſal: 51.4. Lam. 5.16</note> 
+                     <hi>ſinned againſt the</hi> Lord, <hi>woe is me for I am undone.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Bel:</speaker>
+                  <p>
+                     <hi>Oh good Lord, it is not without cauſe that I cry,</hi> wo is me I am un<g ref="char:EOLhyphen"/>done; <hi>for I thinke there is no ſoule in ſuch a dangerous, and deſperate condition, as mine is in.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>Why doeſt thou thinke, and ſay ſo?</p>
+               </sp>
+               <sp>
+                  <speaker>Bel.</speaker>
+                  <p>
+                     <hi>Becauſe I have ſinned that un<g ref="char:EOLhyphen"/>pardonable ſin againſt thy ſpirit.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>Oh thou poor and precious ſoule, thou doſt but thinke ſo, and feare ſo: But tell mee how canſt thou ſin, that ſin againſt my <hi>Spirit,</hi> and yet pray for more of my <hi>Spirit,</hi>
+                     <pb n="41" facs="tcp:169787:28"/>and ſo much prize my <hi>Spirit</hi> as thou doſt?</p>
+               </sp>
+               <sp>
+                  <speaker>Bel:</speaker>
+                  <p>Oh Lord, <hi>I have often grie<g ref="char:EOLhyphen"/>ved, and quenched thy</hi> Spirit, <hi>and is not this to commit that unpardonable ſin?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>My owne deare and loving children may, and doe ſometimes grieve my ſpirit by ſinning, and quench the gracious motions of it, and yet doe not ſin that unpardon<g ref="char:EOLhyphen"/>able ſinne, <hi>Eph.</hi> 4.30. 1 <hi>Theſ.</hi> 5.19. <hi>Eſay.</hi> 63.10.</p>
+               </sp>
+               <sp>
+                  <speaker>Bel:</speaker>
+                  <p>
+                     <hi>Oh but I can thinke no leſſe, but that I have committed that ſin, for I have had</hi> hard, cruell and deſperate <hi>thoughts in my heart, againſt the Holy Spirit.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>Though (my childe) thou haſt had ſuch thoughts in thy heart, yet thou haſt not ſpoken e<g ref="char:EOLhyphen"/>vill of my <hi>Spirit</hi> (as the Jewes did) which is the ſin of blaſphemy, and that unpardonable ſinne, <hi>Mat.</hi> 12.24, 28, 31. <hi>Mark.</hi> 3.22, to 30.</p>
+               </sp>
+               <sp>
+                  <speaker>Bel:</speaker>
+                  <p>
+                     <hi>Lord I am not ſure but that I have ſpoken evill words of thy ſpirit; for I know I have many times uttered</hi> vile,
+<pb n="42" facs="tcp:169787:29"/>bitter, <hi>and</hi> curſed <hi>words.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>Notwithſtanding thou dideſt through the violence of thy temp<g ref="char:EOLhyphen"/>tations and in the bitterneſſe of thy Soule ſpeake ſuch words (as my ſervants <hi>Job,</hi>
+                     <note place="margin">Iob 3.1 to 13 &amp; 10: 18 &amp; 23.15, 16. Pſ. 31.22. &amp; 116.11. Ier 20.14, &amp;c. Ionah 4.3, 4, 9. Mat. 26, 72, 74</note> 
+                     <hi>David, Jeremy, Jonah,</hi> and <hi>Peter</hi> did) yet thou haſt not done deſpight (nor ſinned malici<g ref="char:EOLhyphen"/>ouſly and willfully) againſt my Spirit of grace as Reprobates doe, <hi>Heb.</hi> 10.29.</p>
+               </sp>
+               <sp>
+                  <speaker>Bel.</speaker>
+                  <p>
+                     <hi>Oh I have been and ſtill am very wilfull, and have often ſinned wil<g ref="char:EOLhyphen"/>fully, and thou ſayest in thy word that if any ſinne wilfully after they receive the knowledge of the truth there remaineth no more ſacrifice for ſins.</hi>
+                     <note place="margin">Heb. 10.26</note>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>Thou deare ſoule, have not I heard thee often in prayer complaining of, and bewailing thy ſins, and beging earneſtly for power againſt them; therefore it is rather againſt thy will (then wilfully) that thou doſt ſinne.</p>
+               </sp>
+               <sp>
+                  <speaker>Bel.</speaker>
+                  <p>
+                     <hi>Oh but I finde ſinnes in power in my ſoule, which if I were a Saint they would not be ſo.</hi>
+                  </p>
+               </sp>
+               <pb n="43" facs="tcp:169787:29"/>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>My ſervant <hi>Paul</hi> found ſinne ſo ſtrong in him that he confeſſed he was carnall, and ſold under ſin; and that he found a law in his members,<note place="margin">Sin was in power in <hi>Paul</hi> when it could carry him captive.</note> warring againſt the law of his minde, and bringing him into captivity to the law of ſinne, <hi>Rom.</hi> 14.23.</p>
+               </sp>
+               <sp>
+                  <speaker>Bel.</speaker>
+                  <p>
+                     <hi>Oh but neither</hi> Paul <hi>nor any other</hi> Saint, <hi>hath ſinned preſumptuouſly as I have done.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch.</speaker>
+                  <p>My ſervant <hi>David</hi> prayed, that hee might bee kept from pre<g ref="char:EOLhyphen"/>ſumptuous ſins, for he was ſubject thereunto;<note place="margin">Pſa. 19.13. It is proba<g ref="char:EOLhyphen"/>ble that <hi>David</hi> ſined preſump<g ref="char:EOLhyphen"/>tuouſly in killing <hi>V<g ref="char:EOLhyphen"/>riah.</hi>
+                     </note> and ſo are the beſt of my Saints.</p>
+               </sp>
+               <sp>
+                  <speaker>Bel.</speaker>
+                  <p>
+                     <hi>But Lord I have rebelled againſt thee.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>So did my ſervants of<note n="*" place="margin">Iſ. 1.2. &amp; 63.20.</note> old but I have received<note n="*" place="margin">Pſ. 68.18</note> gifts for the <hi>Rebillious:</hi> and to me belongs mer<g ref="char:EOLhyphen"/>cies and forgiveneſſe, though thou haſt rebelled againſt me, <hi>Dan.</hi> 9.9.</p>
+               </sp>
+               <sp>
+                  <speaker>Bel:</speaker>
+                  <p>
+                     <hi>Oh but my</hi> Rebellion <hi>is the worſt</hi> Rebellion <hi>of all, for I have re<g ref="char:EOLhyphen"/>belled against the light: I have profeſ<g ref="char:EOLhyphen"/>ſed
+<pb n="44" facs="tcp:169787:30"/>thee, and yet I have belyed thee, and made an hypocriticall profeſſion; I ſeemed like</hi> Judas, <hi>to be thy friend, whilſt in my heart I did not love thee.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>The houſe of <hi>Iſrael</hi> and the houſe of <hi>Judah</hi> dealt treacherouſly againſt me the Lord, and belied me, and <hi>Ephraim</hi> my deare ſonne, com<g ref="char:EOLhyphen"/>paſſed me about with lies, yet was I gracious to them, <hi>Jer.</hi> 5.11.12. <hi>Hoſ.</hi> 11.12. with <hi>Jer.</hi> 23.6. and 31.20.</p>
+               </sp>
+               <sp>
+                  <speaker>Bel.</speaker>
+                  <p>
+                     <hi>But Lord</hi> Ephraim <hi>was never ſo wicked as I am, and guilty of ſuch Lukewarmneſſe, Hypocriſie and Backe<g ref="char:EOLhyphen"/>ſliding as I am guilty of.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>Yea, <hi>Ephraim</hi> was as a cake not turned. And <hi>Ephraim</hi> fed up<g ref="char:EOLhyphen"/>on winde, and provoked mee to anger moſt bitterly, yet my bow<g ref="char:EOLhyphen"/>ells did ſtill worke toward <hi>Ephraim,</hi> that I could not deſtroy him, <hi>Hoſ.</hi> 8.8. and 12.1.14. with 11.8.</p>
+               </sp>
+               <sp>
+                  <speaker>Bel:</speaker>
+                  <p>
+                     <hi>But I increaſed in ſin, and the more mercies I received the more my heart was exalted.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>Even ſo did <hi>Ephraim</hi> ſin more and more, and according as hee
+<pb n="45" facs="tcp:169787:30"/>was filled ſo his heart was exalted, <hi>Hoſ.</hi> 13.2, 6.</p>
+               </sp>
+               <sp>
+                  <speaker>Bel:</speaker>
+                  <p>
+                     <hi>But Lord what didſt thou do to</hi> Ephraim?</p>
+               </sp>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>I drew them with the cords of a man, and with bands of love, and I was as the dew unto them, <hi>Heb.</hi> 11.4. and 14.5.</p>
+               </sp>
+               <sp>
+                  <speaker>Bel:</speaker>
+                  <p>
+                     <hi>Oh but I have forſaken the Lord, and backeſlided from thee.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>So did Iſrael and Judah, <hi>Jer.</hi> 2.13. and 3.6. and 4.16.</p>
+               </sp>
+               <sp>
+                  <speaker>Bel:</speaker>
+                  <p>
+                     <hi>But Lord I find that my heart is bent to continuall backeſliding, yea, my backeſlidings are encreaſed.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>So were<note n="*" place="margin">Hoſ. 11.7 Ier. 5.6.</note> they yet I healed their backſlidings, ſo will I heale thine alſo, <hi>Hoſ.</hi> 14.4. <hi>Jer.</hi> 3.14.22.</p>
+               </sp>
+               <sp>
+                  <speaker>Bel:</speaker>
+                  <p>
+                     <hi>But I fell into groſſe ſinnes that hath diſhonoured thee, and cauſed thine e<g ref="char:EOLhyphen"/>nemies to blaſpheme.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>So did my ſervant David, 2 <hi>Sam.</hi> 12.14. and other of my Saints.</p>
+               </sp>
+               <sp>
+                  <speaker>Bel:</speaker>
+                  <p>
+                     <hi>I but then he did mourne and re<g ref="char:EOLhyphen"/>pent greatly for his ſins, but I cannot do ſo, for I find my heart as hard as an Ada<g ref="char:EOLhyphen"/>mant.</hi>
+                  </p>
+               </sp>
+               <pb n="46" facs="tcp:169787:31"/>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>So my people Iſraels hearts formerly, were as hard as a <hi>Rocke, Adamant,</hi> and <hi>Flint, Jer.</hi> 5.3. <hi>Ezek.</hi> 3.9.</p>
+               </sp>
+               <sp>
+                  <speaker>Bel:</speaker>
+                  <p>
+                     <hi>Oh but I have been long (yea e<g ref="char:EOLhyphen"/>ver) troubled with this hardneſſe of heart.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>Though thou haſt, yet I wil take the ſtony heart out of thy fleſh and I wil give thee a heart of fleſh, <hi>Eze.</hi> 36.26.</p>
+               </sp>
+               <sp>
+                  <speaker>Bel:</speaker>
+                  <p>
+                     <hi>But I cannot repent mee of the hardneſſe of my heart.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>What though, yet I am exal<g ref="char:EOLhyphen"/>ted to give repentance unto thee, <hi>Act.</hi> 5.31.</p>
+               </sp>
+               <sp>
+                  <speaker>Bel:</speaker>
+                  <p>
+                     <hi>Oh but I doe not find that I am ſenſible enough of my ſin; for if I were I ſhould mourne, and be aſhamed for all the wickedneſſe which I have committed againſt thee.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch:</speaker>
+                  <p>When thou doeſt ſee mee whom thou haſt pierced, and when thou ſeeſt that I am pacified to<g ref="char:EOLhyphen"/>wards thee; then thou ſhalt mourn, loath thy ſelfe, and bee aſhamed, for all thy ſinnes and abominati<g ref="char:EOLhyphen"/>ons which thou haſt committed
+<pb n="47" facs="tcp:169787:31"/>againſt me <hi>Rev.</hi> 1.7. <hi>Ezek.</hi> 6.9. &amp; 16.63.</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>But Lord I am a very great ſinner, and I would faine ſee the na<g ref="char:EOLhyphen"/>ture and number of my ſins, that I might truly repent me of them, and be humbled for them.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>If thou didſt ſe all thy ſins with their nature, number, and aggrava<g ref="char:EOLhyphen"/>tions: thou couldſt never look upon them,<note place="margin">Gen. 4.13. Mar. 27.3, 4, 5.</note> but with deſpaire as <hi>Cain</hi> and <hi>Iudas.</hi> And it is not ſo much the ſight of ſin as the ſight of my <hi>Love, Grace, Goodneſſe,</hi> and <hi>Glory,</hi> that will lead thee to repentance, and humble thee for thy ſins. <hi>Luk.</hi> 7.42.47. <hi>Zach.</hi> 12 10. <hi>Rom.</hi> 2.4. <hi>Eſa.</hi> 6.5.</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>Oh Lord I know I am as wic<g ref="char:EOLhyphen"/>ked a ſinner and as ungodly a wretch as ever lived: but though I know this yet methinks I am not broken with the ſence thereof, I cannot weep nor ſhed tears for my ſins, Oh no! I go many times to prayer and to heare Sermons, and there is no more wor<g ref="char:EOLhyphen"/>king, nor relenting upon my ſoule, then if J were a dead ſtock, or ſtone.</hi>
+                  </p>
+               </sp>
+               <pb n="48" facs="tcp:169787:32"/>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Oh my deare ſoule do not thou belye thy ſelfe, for I have heard ma<g ref="char:EOLhyphen"/>ny a ſorrowfull ſigh comming from thy heart, and I have ſeene many a teare drop from thine Eyes:<note place="margin">Ezek. 9.4 Pſal. 34.17 Zack. 12.11. Heb. 5.7.</note> and I will yet poure out more of the Spirit of mourn<g ref="char:EOLhyphen"/>ing upon thee. But what if thou didſt not finde theſe things in thy ſelfe, yet I have offered up ſtrong cries and teares unto my Father for thee.</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>Oh Lord that I had but faith to beleeve that for my ſelfe.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Have faith in me, and be not faithleſſe but beleeving. <hi>Mar.</hi> 11.22. <hi>Ioh.</hi> 20.27.</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>Lord I find ſo much</hi> Atheiſme <hi>and</hi> unbeliefe <hi>in my heart that I have often times queſtionings in my ſelfe concerning God, and concerning the Scriptures, and word of God.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Theſe are the temptations and ſuggeſtions of Satan, and my own Diſ<g ref="char:EOLhyphen"/>ciples were, and are troubled with them. <hi>Luk.</hi> 24.25.</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>Oh Lord, J am troubled with a thouſand temptations.</hi>
+                  </p>
+                  <p>Yet feare not (my loving and
+<pb n="49" facs="tcp:169787:32"/>deare Child) for though thou haſt di<g ref="char:EOLhyphen"/>vers temptations,<note place="margin">Jam. 1.2. 1 Cor. 10.13. Heb. 2.18. 2 Pet. 2.9</note> yet it is that which my beſt Saints have had, and I will not ſuffer thee th be tempted above what thou art able, but I will ſuccour thee in thy temptations, and I will make away that thou ſhalt eſcape, and be de<g ref="char:EOLhyphen"/>liver out of temptation.</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>But I think that no Saint hath ſuch temptations as mine, for ſome<g ref="char:EOLhyphen"/>times, I am tempted to kill my ſelfe, and ſometimes to kill others; inſo<g ref="char:EOLhyphen"/>much that J cannot look upon any weapon, waters, or the like, but I am ready to do my ſelfe away there<g ref="char:EOLhyphen"/>with.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Satan tempted me to caſt my ſelfe of the Pinacle of the Temple and he alſo tempted many of my deare Children, to deſtroy themſelves: but do not thou hearken to the <hi>Accuſer</hi> (for he doth accuſe thee to me and me to thee) but rather ſay unto him,<note place="margin">Mar. 4.5. Rev. 12.10 Job. 12.31.</note> 
+                     <hi>Satan</hi> it is written, my Lord Jeſus hath over<g ref="char:EOLhyphen"/>come thee, and I hope through his bloud, and through his might, and ſpi<g ref="char:EOLhyphen"/>rit to overcome thee likewiſe: ſay alſo
+<pb n="50" facs="tcp:169787:33"/>my God hath commanded me not to kill another,<note place="margin">Exod. 20.13. Act. 16.28 Job. 13.15</note> nor to doe <hi>hurt or vio<g ref="char:EOLhyphen"/>lence to my ſelfe:</hi> therefore get thee behind me thou <hi>lier, murtherer,</hi> and <hi>Enemy,</hi> for I will put my truſt in Chriſt though he kill me, and I will endeavour to live to ſerve him, though he ſhould afterwards damne me.</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>Though I do ſometimes reſolve againſt Satans temptations, and la<g ref="char:EOLhyphen"/>bour to reſiſt them: yet I find my temptations are renewed; and I am not able to withſtand them, for they come in as a floud upon me.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>I that ſay unto the proud waves hitherto ſhalt thou come but no fur<g ref="char:EOLhyphen"/>ther; I will by my ſpirit put the Ene<g ref="char:EOLhyphen"/>my (Satan) to flight when he comes in like a floud againſt thee.<note place="margin">Job. 38.11 Se Eſa. 59.19. marg.</note>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>But Lord I find I am not only troubled with feare and ſad tempta<g ref="char:EOLhyphen"/>tions: but alſo with ſtrong and powerfull corruptions.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>I will ſubdue all thy iniquities, and thy ſins ſhall not have dominion ouer thee, <hi>Mich.</hi> 7.19. <hi>Rom.</hi> 6.14.</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>Oh but this doth much trouble
+<pb n="51" facs="tcp:169787:33"/>me, that I do not find any love in my heart to thee.</hi>
+                     <note place="margin">Deut. 30.6 1 Joh. 4.19.</note>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>What though thou doſt not, yet I will circumciſe thy heart and thou ſhalt love me: and when thou appre<g ref="char:EOLhyphen"/>hendeſt my love to thee, thou wilt love me againe.</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>I have ſinned</hi> (Lord) <hi>againſt thy mercies and abaſed thy love, yea loved my ſins more then thee, there<g ref="char:EOLhyphen"/>fore I cannot think that ever thou wilt look upon me with any love or delight.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>So did my ſervant <hi>David,</hi>
+                     <note place="margin">2 Sam. 12.8, 9. Hoſ. 2.5, &amp; 14.4. &amp; 2.9.</note> and my people <hi>Jſrael</hi> doe, yet as I loved them, ſo will I love thee freely, and betroth thee to me in loving kindneſſe and mercy.</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>But Lord I have not only ſin'd againſt thy mercies, but againſt thy corrections, and chaſtiſements al<g ref="char:EOLhyphen"/>ſo.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>So did my people <hi>Iſrael</hi> formerly doe,<note place="margin">Eſa. 57.17 18.</note> for when I ſmote them they went on frowardly in the way of their evill heart, but I lead them and reſtor'd comforts to them.</p>
+               </sp>
+               <pb n="52" facs="tcp:169787:34"/>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>I bui my condition is worſe the<hi rend="sup">n</hi> all that, for I have been long unde<hi rend="sup">r</hi> the means of grace, and yet I am al<g ref="char:EOLhyphen"/>together fruitleſſe; and like the bar<g ref="char:EOLhyphen"/>ren Fig-tree.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C,</speaker>
+                  <p>Thou troubled ſoule in me is thy fruit found,<note place="margin">Joh. 15.5. Pſal. 92.12, 13 14.</note> and I will purge thee, and thou ſhalt bring forth fruit abun<g ref="char:EOLhyphen"/>dantly, for they that are planted in my houſe ſhall flouriſh and be fat and like a green Olive Tree.</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>I Lord, its true, if J were a branch in thee and a true member of thy houſe, then I could beleeve theſe promiſes of thine; alas! I am neither of both, but ſeparated from thee, and thy people.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Do not ſay that thou art none of mine (for I have bought thee with my blond) and do not ſpeak that thou art ſeparated from my people;<note place="margin">Eſa. 56.3.5</note> for I will give thee in mine houſe, and within my walls, a place, and a name, better then the name of Sons and Daugh<g ref="char:EOLhyphen"/>ters.</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>Sure if I were not an</hi> out-caſt <hi>and a</hi> Reprobate, <hi>I ſhould not be thus
+<pb n="53" facs="tcp:169787:34"/>(as I am) in a wilderneſſe condition.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C,</speaker>
+                  <p>Iſrael was accounted an <hi>out-caſt</hi> and ſhe cried out;<note place="margin">Jer. 30.16.17, 22.</note> yet I was then a God to her, and ſhe a people to me.</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>Oh if I were but one of thine, I ſhould then count my ſelfe the happi<g ref="char:EOLhyphen"/>eſt in all the world.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Feare not my Spouſe, for I am thy Husband, and thy Father.</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>If I were one of thy Children thou wouldſt not hide thy ſelfe from me as thou doſt.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>I have hid my ſelfe and my face from ſome of my Prophets and people of old and yet it was in love to them, and ſo it is to thee, <hi>Pſal.</hi> 88.14. <hi>Eſa.</hi> 8.17. &amp; 64.7.</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>But thou haſt hid thy ſelfe from me, and thou ſeemeſt alſo to be angry with me.</hi>
+                     <note place="margin">Eſa. 54.5. Jer. 31.9.</note>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Fury is not in me (towards thee) and though I be angry, yet my anger is but for a moment, <hi>Eſa</hi> 27.4. &amp;. 54.8.</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>Yet Lord thou haſt been angry with me a long time, for thou haſt for gotten me.</hi>
+                  </p>
+               </sp>
+               <pb n="54" facs="tcp:169787:35"/>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Zion did ſay ſo, the Lord hath forſaken me, and my Lord hath for<g ref="char:EOLhyphen"/>gotten me: yet I had not forgot her; for ſhe was graven upon the palmes of my hands <hi>Eſa</hi> 49.14, 15. <hi>Ier.</hi> 51.5.</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>But Lord if thou had'ſt not forgotten me, thou would'ſt never have left me, in ſuch a wilderneſſe and barren condition as I am in.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>I have allured thee into the wil<g ref="char:EOLhyphen"/>derneſſe, that I might ſpeak comfor<g ref="char:EOLhyphen"/>tably unto thee. <hi>Hoſ.</hi> 2.14.</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>I have been may years in trou<g ref="char:EOLhyphen"/>ble, and terrours and wanting peace in my ſoule, which could not poſſibly have been, if I had truly beleeved in thee.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>But now will I ſpeak peace un<g ref="char:EOLhyphen"/>to thee, and I will guide thee into the way of peace. <hi>Pſal.</hi> 85.8. <hi>Luk.</hi> 1.79.</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>How Lord wilt thou ſpeak peace unto me,</hi>
+                     <note place="margin">
+                        <hi>i. e.</hi> The Prea chers Lips that preacht peace.</note> 
+                     <hi>and guide me into the way of peace?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>I will create the fruit of the lips <hi>Peace, Peace,</hi> and my ſpirit ſhall be
+<pb n="55" facs="tcp:169787:35"/>in thee and his fruit ſhall be peace to thy ſoule: <hi>Eſa</hi> 57, 19. &amp; 55.12.</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>But Lord thy word ſaith; there is no peace to the wicked.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>No not to a man that will per<g ref="char:EOLhyphen"/>ſiſt in his wicked way, and doth not, nor will not beleeve in me, but thou art one of thoſe that I bore the cha<g ref="char:EOLhyphen"/>ſtizement of thy peace, and one of the Children of peace: <hi>Eſa</hi> 53.5. &amp; 54.13.</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>But Lord how can I have peace, ſeeing a man cannot have peace be<g ref="char:EOLhyphen"/>fore (and without) he does beleeve?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Thou ſhalt have faith and peace, and I will give peace through belee<g ref="char:EOLhyphen"/>ving: 2. <hi>Theſ.</hi> 3.16.6.</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>But Lord then J muſt know that I am one of thine.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Thou ſhalt know that I am the Lord thy God, and that thou art one of my people: <hi>Ezek.</hi> 34.30.</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>Oh how ſhall I know that.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>My ſpirit ſhall beare witneſſe with thy ſpirit that thou art my Child. <hi>Rom.</hi> 8.16.</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>But how ſhall I know that it is thy
+<pb n="56" facs="tcp:169787:36"/>ſpirit that beareth this witneſſe, and that it is not the ſpirit of de<g ref="char:EOLhyphen"/>luſion?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Thou maiſt know that by its power in working in thy heart which no other ſpirit can work alike: as al<g ref="char:EOLhyphen"/>ſo by the earneſt and fruits there of: 2 <hi>Cor.</hi> 5.5. &amp; 7.22. <hi>Gal.</hi> 5.22, 23.</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>Lord what elſe ſhall I beleeve, beſides being one of thine?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Doſt thou beleeve that?</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>Yes Lord, J do beleeve, that thou art Ieſus the Son of God and the Saviour of the world:</hi> Act. 8 37. Joh. 6.69. &amp; 11.27.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>But doſt thou beleeve that I am thy Saviour.</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>Lord I do beleeve that there is no other way to be ſaved but only by thee:</hi> Act. 4.12.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>But doſt thou beleeve that thou ſhalt be ſaved by me.</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>Lord I do beleeve, help my unbeliefe:</hi> Mark 9.24.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>To thee it is given to beleeve: <hi>Phil.</hi> 1.29.</p>
+               </sp>
+               <pb n="57" facs="tcp:169787:36"/>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>Now Lord I doe beleeve.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>What doſt thou now be<g ref="char:EOLhyphen"/>leeve?</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>I beleeve that thou lo<g ref="char:EOLhyphen"/>ved'ſt me and did'ſt give thy ſelfe for me, and that thou art my Lord, and my God, and that I am juſtified and ſhall be ſaved by grace:</hi> Gal. 2.20. Joh. 20.28. Act. 15.11.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>How cam'ſt thou tobeleeve this?</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>Lord it is by thy gift and work that J do beleeve it:</hi> Eph. 2.8. Heb 12.2.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Well; now thou doſt beleeve, what wilt thou do?</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>Lord what wilt thou have me to do?</hi> Act. 9.6.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>If thou love me keep my words: <hi>Ioh.</hi> 14.23.</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>What are thoſe words of thine?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>Search the Scriptures, for they are able to make thee perfect and wiſe unto ſalvation, and to fur<g ref="char:EOLhyphen"/>niſh thee for every good work:
+<pb n="85" facs="tcp:169787:37"/>
+                     <hi>Ioh.</hi> 5.39.2 <hi>Tim.</hi> 3.16.17.</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>But Lord how ſhall I under<g ref="char:EOLhyphen"/>ſtand thy word?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>I will make known my words unto thee: <hi>Pro.</hi> 1.23.</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>But Lord is there no danger of my departing and falling away from thee now I do beleeve?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>No, the Mountaines ſhall depart, and the Hills be removed, but my loving kindneſſe ſhall not depart from thee: <hi>Eſa</hi> 54.10. <hi>Ier.</hi> 32.40.</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>Lord I will keep thy pre<g ref="char:EOLhyphen"/>cepts with my whole heart</hi> Pſal. 119 69.</p>
+               </sp>
+               <sp>
+                  <speaker>C.</speaker>
+                  <p>I have redeemed thee, that thou ſhould'ſt ſerve me with<g ref="char:EOLhyphen"/>out feare, in Holineſſe and Righ<g ref="char:EOLhyphen"/>teouſneſſe, all the dayes of thy life: <hi>Luk.</hi> 1.69.</p>
+               </sp>
+               <sp>
+                  <speaker>B.</speaker>
+                  <p>
+                     <hi>Come ye Children and I will declare what my Lord hath don for my ſoule.</hi>
+                  </p>
+                  <p>
+                     <hi>My SOVLE ſhall make her boaſts of the LORD,
+<pb n="59" facs="tcp:169787:37"/>the humble ſhall be are this and be glad, and magnifie the LORD with me, and let us Exalt his Name together:</hi> Pſal. 34.11.2, 3.</p>
+               </sp>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
